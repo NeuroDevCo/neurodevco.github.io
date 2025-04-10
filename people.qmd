@@ -13,7 +13,7 @@ description: "Meet the team!"
 
 ![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevComp group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
+I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
 
 I earned my Ph.D. in Psychology from the University of Padova (Italy) in 2016, with a specialization in animal cognition. After completing my doctorate studies, I did a post-doctoral training at the University of Wisconsin–Madison (USA) focusing on infant language learning. I then joined the Center for Brain and Cognition at Universitat Pompeu Fabra (Barcelona, Spain) as post-doctoral fellow where I mainly worked on the acquisition of syntax and syllabic structures, categorization processes and preferences for speech in infants, and learning of linguistic constraints in rats. 
 

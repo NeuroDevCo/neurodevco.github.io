@@ -19,7 +19,7 @@ description: "¡Contacta con nosotros!"
 
 {{< fa phone >}}  +34 670 211 887
 
-{{< fa envelope >}}  [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+{{< fa envelope >}}  [neurodevco@sjd.es](mailto:neurodevco@sjd.es)
 
 
 :::

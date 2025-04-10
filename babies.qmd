@@ -7,7 +7,7 @@ description: "What kind of studies do we carry out?"
 ## Newborns
 
 ::: textbox
-Language is a very complex and structured communicative system yet most humans find it surprisingly easy to acquire language. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevComp group, which we address by studying newborns a few hours after birth. 
+Language is a very complex and structured communicative system yet most humans find it surprisingly easy to acquire language. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevCo group, which we address by studying newborns a few hours after birth. 
 
 We use a technique called fNIRS (functional Near-Infrared Spectroscopy) that allows to measure newborns' spontaneous neural activity when listening to auditory inputs (e.g., continuous speech, individual syllables and words). We are currently conducting these studies at the Sant Joan de Deu Barcelona Children Hospital. 
 :::
