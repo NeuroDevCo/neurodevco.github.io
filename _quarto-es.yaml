@@ -5,7 +5,7 @@ website:
   repo-url: https://github.com/neurodevco/neurodevco.github.io
   repo-actions: [edit, issue]
   navbar:
-    title: "NeuroDevComp"
+    title: "NeuroDevCo"
     logo: static/img/ndc-logo.png
     right:
       - icon: github
