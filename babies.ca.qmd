@@ -7,7 +7,7 @@ description: "Quin tipus d'estudis fem?"
 ## Nounats
 
 ::: textbox
-La llengua és un sistema comunicatiu molt complex i estructurat però la majoria dels humans troben sorprenentment fàcil adquirir el llenguatge. Quins mecanismes donen suport a aquesta disposició per a l'aprenentatge de llengües en els primers anys de la vida? Aquesta és una de les principals preguntes de recerca del grup NeuroDevComp, a la qual ens dirigim sentint nadons unes hores després del naixement.
+La llengua és un sistema comunicatiu molt complex i estructurat però la majoria dels humans troben sorprenentment fàcil adquirir el llenguatge. Quins mecanismes donen suport a aquesta disposició per a l'aprenentatge de llengües en els primers anys de la vida? Aquesta és una de les principals preguntes de recerca del grup NeuroDevCo, a la qual ens dirigim sentint nadons unes hores després del naixement.
 
 Utilitzem una tècnica anomenada fNIRS (funcional Near-Infrared Spectroscopy) que permet mesurar l'activitat neuronal espontània dels nounats en escoltar les entrades auditives (per exemple, parla contínua, síl·labes individuals i paraules). Actualment estem realitzant aquests estudis a l'Hospital Sant Joan de Déu Barcelona.
 :::
