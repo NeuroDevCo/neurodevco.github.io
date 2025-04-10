@@ -19,7 +19,7 @@ Interessat/da en participar en els nostres estudis o vols saber més sobre la no
 
 {{< fa phone >}}  +34 670 211 887
 
-{{< fa envelope >}}  [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+{{< fa envelope >}}  [neurodevcom@sjd.es](mailto:neurodevco@sjd.es)
 
 
 :::
