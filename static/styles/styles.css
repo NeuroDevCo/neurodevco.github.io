@@ -76,7 +76,7 @@
 
 
 body {
-    background: url('/static/img/background.svg') no-repeat center center fixed;
+    background: url('../img/background.svg') no-repeat center center fixed;
     background-size: 100% auto;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -99,8 +99,13 @@ a {
 span.menu-text,
 span.navbar-title,
 .bi {
-    font-family: 'Ciutadella Medium';
+    font-family: 'Ciutadella';
     font-size: 25px;
+    font-weight: 600;
+}
+
+.sidebar {
+    font: 'Ciutadella Bold';
 }
 
 toc-active {
@@ -129,7 +134,7 @@ a.nav-link,
 .nav-link.active,
 #toc-title,
 .subtitle {
-    font-family: 'Ciutadella SemiBold';
+    font-family: 'Ciutadella Bold';
     color: black;
     font-size: 18px;
 }
