@@ -1,18 +1,18 @@
 website:
-  title: "NeuroDevComp"
+  title: "NeuroDevCo"
   favicon: static/img/favicon.ico
-  site-url: https://neurodevcomp.github.io
-  repo-url: https://github.com/NeuroDevComp/neurodevcomp.github.io
+  site-url: https://neurodevco.github.io
+  repo-url: https://github.com/NeuroDevCo/neurodevco.github.io
   repo-actions: [edit, issue]
   navbar:
-    title: "NeuroDevComp"
+    title: "NeuroDevCo"
     logo: static/img/ndc-logo.png
     right:
       - icon: github
-        href: https://github.com/NeuroDevComp
+        href: https://github.com/neurodevco
         aria-label: GitHub
       - icon: twitter
-        href: https://github.com/NeuroDevComp
+        href: https://github.com/neurodevco
         aria-label: Twitter
     left:
       - href: people.qmd
@@ -40,7 +40,7 @@ website:
 
       {{< fa phone >}} +34 670 211 887
 
-      {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+      {{< fa envelope >}} [neurodevco@sjd.es](mailto:neurodevco@sjd.es)
 
       <br>
 

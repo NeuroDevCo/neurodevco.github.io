@@ -4,6 +4,7 @@ image: /static/img/pccb.jpg
 description: "¡Contacta con nosotros!"
 ---
 
+¿Interesado/a en participar en nuestros estudios o quieres saber más sobre nuestra investigación?
 
 :::::{.column-page}
 :::: {.contactbox}
@@ -18,7 +19,7 @@ description: "¡Contacta con nosotros!"
 
 {{< fa phone >}}  +34 670 211 887
 
-{{< fa envelope >}}  [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+{{< fa envelope >}}  [neurodevco@sjd.es](mailto:neurodevco@sjd.es)
 
 
 :::
