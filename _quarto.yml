@@ -37,10 +37,4 @@ babelquarto:
       text: Español
   mainlanguage: 'en'
   languages: ['ca', 'es']
-title-es: NeuroDevCo
-title-fr: NeuroDevCo
-description-ca: Neurodevelopment and Comparative Cognition
-description-es: Neurodevelopment and Comparative Cognition
-author-ca: Gonzalo García-Castro
-author-es: Gonzalo García-Castro
 lang: en

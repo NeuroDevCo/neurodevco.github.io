@@ -46,9 +46,9 @@ website:
 
     background: "#f1f1f1"
 
-# babelquarto:
-#   languagecodes:
-#   - name: ca
-#     text: "Català"
-#   mainlanguage: 'en'
-# lang: en
+babelquarto:
+  languagecodes:
+  - name: ca
+    text: "Català"
+  mainlanguage: 'en'
+lang: en
