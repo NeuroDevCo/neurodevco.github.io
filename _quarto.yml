@@ -26,15 +26,15 @@ format:
     email-obfuscation: javascript
     include-before-body: static/templates/background.html
 
-babelquarto:
-  icon: "bi bi-backpack"
-  languagecodes:
-    - names: en
-      text: English
-    - name: ca
-      text: Català
-    - name: es
-      text: Español
-  mainlanguage: 'en'
-  languages: ['ca', 'es']
-lang: en
+# babelquarto:
+#   icon: "bi bi-backpack"
+#   languagecodes:
+#     - names: en
+#       text: English
+#     - name: ca
+#       text: Català
+#     - name: es
+#       text: Español
+#   mainlanguage: 'en'
+#   languages: ['ca', 'es']
+# lang: en
