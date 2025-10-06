@@ -41,7 +41,7 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: book_render
-          path: _book/
+          path: docs/
 
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
