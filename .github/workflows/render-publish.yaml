@@ -31,22 +31,25 @@ jobs:
           r-version: "4.3.3"
 
       - name: Install R Dependencies
-        uses: r-lib/actions/setup-renv@v2
+        uses: actions/cache@v4
         with:
-          cache-version: 1
+          key: ${{ runner.os }}-1-${{ hashFiles('renv.lock') }}
+          restore-keys: ${{ runner.os }}-1-
+          path: renv/library
 
       - name: Render
         run: Rscript -e 'babelquarto::render_website(site_url="https://neurodevcomp.github.io/")'
 
-      - name: git config
-        run: |
-          git config --global user.email "actions@github.com"
-          git config --global user.name "gh-pages committer"
+      - name: Archive book render
+        uses: actions/upload-artifact@v4
+        with:
+          name: book_render
+          path: _book/
 
-      - name: Commit results
-        run: |
-          cd docs
-          git init
-          git add .
-          git commit -m 'update website'
-          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
+      - name: Publish
+        uses: quarto-dev/quarto-actions/publish@v2
+        with:
+          target: gh-pages
+          render: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
