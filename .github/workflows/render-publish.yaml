@@ -35,18 +35,19 @@ jobs:
         with:
           packages: |
             github::ropensci-review-tools/babelquarto@a485fea
-      - name: Render Book with babelquarto
-        run: Rscript -e 'babelquarto::render_book()'
-      - name: Achive book render
-        uses: actions/upload-artifact@v4
-        with:
-          name: book_render
-          path: docs/
 
-      - name: Publish
-        uses: quarto-dev/quarto-actions/publish@v2
-        with:
-          target: gh-pages
-          render: false
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Render
+        run: Rscript -e 'babelquarto::render_website(site_url="https://neurodevcomp.github.io/")'
+
+      - name: git config
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "gh-pages committer"
+
+      - name: Commit results
+        run: |
+          cd docs
+          git init
+          git add .
+          git commit -m 'update website'
+          git push https://${{github.actor}}:${{secrets.GITHUB_TOKEN}}@github.com/${{github.repository}}.git HEAD:gh-pages --force
