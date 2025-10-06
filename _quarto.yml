@@ -1,13 +1,14 @@
 project:
   type: website
   output-dir: docs
-  resources: 
+  resources:
     - static/fonts/
     - static/img/background.svg
 
 
 website:
   navbar: true
+  site-url: https://neurodevco.github.io
 
 format:
   html:
@@ -18,13 +19,28 @@ format:
     smooth-scroll: true
     body-width: 1000px
     linkcolor: black
-    grid: 
+    grid:
       body-width: 1000px
       sidebar-width: 200px
       margin-width: 200px
     email-obfuscation: javascript
     include-before-body: static/templates/background.html
-    
+
 babelquarto:
+  icon: "bi bi-backpack"
+  languagecodes:
+    - names: en
+      text: English
+    - name: ca
+      text: Català
+    - name: es
+      text: Español
   mainlanguage: 'en'
   languages: ['ca', 'es']
+title-es: NeuroDevCo
+title-fr: NeuroDevCo
+description-ca: Neurodevelopment and Comparative Cognition
+description-es: Neurodevelopment and Comparative Cognition
+author-ca: Gonzalo García-Castro
+author-es: Gonzalo García-Castro
+lang: en

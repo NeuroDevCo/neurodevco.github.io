@@ -28,13 +28,13 @@ website:
     search: true
   twitter-card: true
   open-graph: true
-  page-footer: 
+  page-footer:
     left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
-    right: 
+    right:
       - icon: github
         href: https://github.com/
-      - icon: twitter 
-        href: https://twitter.com/ 
+      - icon: twitter
+        href: https://twitter.com/
     center: |
       {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
 
@@ -46,9 +46,9 @@ website:
 
     background: "#f1f1f1"
 
-babelquarto:
-  languagecodes:
-  - name: es
-    text: "Español"
-  mainlanguage: 'en'
-lang: en
+# babelquarto:
+#   languagecodes:
+#   - name: es
+#     text: "Español"
+#   mainlanguage: 'en'
+# lang: en
