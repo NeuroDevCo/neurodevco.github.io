@@ -1,14 +1,51 @@
 project:
   type: website
   output-dir: docs
-  resources: 
+  resources:
     - static/fonts/
     - static/img/background.svg
 
+profile:
+  default: en
+  group: [en, ca, es]
+
 
 website:
-  navbar: true
+  navbar:
+    title: "NeuroDevComp"
+    logo: static/img/ndc-logo.png
+    search: true
+    right:
+      - href: ../en/index.html
+        text: English
+      - href: ../ca/index.html
+        text: Català
+      - href: ../es/index.html
+        text: Español
+  twitter-card: true
+  open-graph: true
+  repo-actions: [edit, issue]
+  title: "NeuroDevComp"
+  favicon: static/img/favicon.ico
+  site-url: https://neurodevcomp.github.io
+  repo-url: https://github.com/NeuroDevComp/neurodevcomp.github.io
+  page-footer:
+    left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
+    right:
+      - icon: github
+        href: https://github.com/
+      - icon: twitter
+        href: https://twitter.com/
+    center: |
+      {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
 
+      {{< fa phone >}} +34 670 211 887
+
+      {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
+
+      <br>
+
+    background: "#f1f1f1"
 format:
   html:
     theme: cosmo
@@ -18,13 +55,9 @@ format:
     smooth-scroll: true
     body-width: 1000px
     linkcolor: black
-    grid: 
+    grid:
       body-width: 1000px
       sidebar-width: 200px
       margin-width: 200px
     email-obfuscation: javascript
     include-before-body: static/templates/background.html
-    
-babelquarto:
-  mainlanguage: 'en'
-  languages: ['ca', 'es']
