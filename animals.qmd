@@ -1,5 +1,5 @@
 ---
-image: ../static/img/animals.jpg
+image: /static/img/animals.jpg
 ---
 
 ::: {.content-visible when-profile="en"}
@@ -33,12 +33,12 @@ En el nostre grup de recerca estem interessats a fer un **enfocament multi-espè
 
 # Nuestros estudios con animales no humanos
 
-::: textbox
+:::: textbox
 
 ¿Sabías que **otros animales son capaces de procesar y aprender algunas propiedades del lenguaje humano**? En nuestro grupo de investigación nos interesa adoptar un enfoque **multi-especie** para comprender el **aprendizaje y procesamiento del lenguaje**. Utilizamos modelos animales como las ratas *Rattus Norvegicus* para probar su **capacidad de procesar sílabas y palabras**, dos unidades fundamentales del habla que se implementan con estímulos auditivos y vibrotáctiles.
 
-:::
+::::
 
 :::
 
-![](../static/img/animals.jpg)
+![](/static/img/animals.jpg)

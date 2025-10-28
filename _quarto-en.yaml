@@ -8,10 +8,10 @@ website:
     title: "NeuroDevComp"
     right:
       - icon: github
-        href: https://github.com/NeuroDevComp
+        href: https://github.com/neurodevco
         aria-label: GitHub
       - icon: twitter
-        href: https://github.com/NeuroDevComp
+        href: https://github.com/neurodevco
         aria-label: Twitter
     left:
       - href: people.qmd

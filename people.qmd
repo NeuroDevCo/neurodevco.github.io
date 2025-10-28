@@ -10,12 +10,11 @@ image: /static/img/ndc-logo.png
 
 <br>
 
-<h2>Dr. Chiara Santolin (Principal Investigator, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
-</a>&nbsp;&nbsp;</h2>
+<h2>Dr. Chiara Santolin (Principal Investigator, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" ><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/chiara_santolin" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;</h2>
 
-![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+![](/static/img/chiara.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevComp group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
+I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
 
 I earned my Ph.D. in Psychology from the University of Padova (Italy) in 2016, with a specialization in animal cognition. After completing my doctorate studies, I did a post-doctoral training at the University of Wisconsin–Madison (USA) focusing on infant language learning. I then joined the Center for Brain and Cognition at Universitat Pompeu Fabra (Barcelona, Spain) as post-doctoral fellow where I mainly worked on the acquisition of syntax and syllabic structures, categorization processes and preferences for speech in infants, and learning of linguistic constraints in rats.
 
@@ -23,25 +22,25 @@ In 2024, I was awarded an ERC Starting Grant (European Union) for my project Gat
 
 ## Post-doctoral researchers
 
-<br>
-
-<h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
+<h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
 </a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
 
-![](/static/img/gonzalo.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+![](/static/img/gonzalo.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I am a post-doctoral researcher investigating **language acquisition** and **how young minds make sense of the world**. My work focuses on developmental psychology and psycholinguistics, studying how humans process language at different stages in development: from **newborns** to **infants**, **toddlers**, and **adults**. Under the GALA project, I investigate how neonates, infants, and non-human animals process different syllabic structures, searching for common mechanisms supporting language processing. To do this, I use a combination of **eye-tracking**, functional near-infrared spectroscopy (**fNIRS**), and **computational modelling**. with a special focus on **computational reproducibility**. **Bayesian statistics** are a big part of how I try to make sense of data.
+I am a post-doctoral researcher investigating language acquisition and how young minds make sense of the world. My work focuses on developmental psychology and psycholinguistics, studying how humans process language at different stages in development: from newborns to infants, toddlers, and adults. Under the GALA project, I investigate how neonates, infants, and non-human animals process different syllabic structures, searching for common mechanisms supporting language processing. To do this, I use a combination of eye-tracking, functional near-infrared spectroscopy (fNIRS), and computational modelling. with a special focus on computational reproducibility. Bayesian statistics are a big part of how I try to make sense of data.
+
+In 2024 I obtained my Ph.D. at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof. Núria Sebastian-Galles. I earned my B. Sc. in Psychology from the Universidad de Oviedo in 2013, and my M. Sc. in Neurosciences at the Universitat de Barcelona in 2018.
 
 In 2024 I obtained my Ph.D. at the Center for Brain and Cognition, **Universitat Pompeu Fabra**, supervised by Prof. Núria Sebastian-Galles. I earned my B. Sc. in Psychology from the **Universidad de Oviedo** in 2013, and my M. Sc. in Neurosciences at the **Universitat de Barcelona** in 2018.
 
 ## Ph.D. students
 
-<br>
+<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Floraachr" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
-<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Floraachr" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+![](/static/img/flora.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-![](/static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+I am a Ph.D. student at Universitat Pompeu Fabra in Barcelona, enrolled in the Ph.D. Program in Biomedicine. I am interested in the early acquisition and processing of language by infants, using different techniques such as behavioral ones, eye-tracking and fNIRS.
 
 I am a **Ph.D. student** at **Universitat Pompeu Fabra** in Barcelona, enrolled in the Ph.D. Program in Biomedicine. I am interested in the **early acquisition and processing of language** by infants, using different techniques such as **behavioral** ones, **eye-tracking** and **fNIRS**.
 
@@ -51,11 +50,11 @@ I obtained my **M. Sc. in Integrative Biology and Physiology**, specialized in B
 
 ## Staff
 
-<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/laurapiracun" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/laurapiracun" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
-![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+![](/static/img/laura.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I work as research assistant for the GALA project. I facilitate research by aiding **data collection**, providing **logistic and administrative support**, and taking care of the call center to **invite families to participate** in our studies. I obtained my M. Sc. in **International Experimental and Clinical Linguistics** at the **University of Potsdam** (Potsdam, Germany), and my **BA in Psychology** at **Bethany College** (Kansas, USA). I am very interested in research aiming to understand **language acquisition mechanisms** and strategies, with a special focus on **understudied populations, languages, and dialects**.
+I work as research assistant for the GALA project. I facilitate research by aiding data collection, providing logistic and administrative support, and taking care of the call center to invite families to participate in our studies. I obtained my M. Sc. in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my BA in Psychology at Bethany College (Kansas, USA). I am very interested in research aiming to understand language acquisition mechanisms and strategies, with a special focus on understudied populations, languages, and dialects.
 
 :::
 
