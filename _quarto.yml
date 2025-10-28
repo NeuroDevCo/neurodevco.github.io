@@ -16,7 +16,7 @@ website:
     logo: static/img/ndc-logo.png
     search: true
     right:
-      - href: ../index.html
+      - href: index.html
         text: English
       - href: ../ca/index.html
         text: Català
