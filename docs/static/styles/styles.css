@@ -101,7 +101,6 @@ span.navbar-title,
 .bi {
     font-family: 'Ciutadella';
     font-size: 25px;
-    font-weight: 600;
 }
 
 .sidebar {
@@ -201,7 +200,7 @@ a.nav-footer {
 .nav-footer {
     background-color: rgb(255, 255, 255, 0.8);
     font-size: 25px;
-    font-family: 'Ciutadella Regular';
+    font-family: 'Ciutadella';
 }
 
 .logos-grid {
