@@ -12,7 +12,6 @@ sidebar:
 toc: false
 ---
 
-
 ::: {.content-visible .content-visible when-profile="en"}
 
 # Neurodevelopment and Comparative Cognition group
