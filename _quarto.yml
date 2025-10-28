@@ -16,11 +16,11 @@ website:
     logo: static/img/ndc-logo.png
     search: true
     right:
-      - href: /docs/index.html
+      - href: ./
         text: English
-      - href: /docs/ca/index.html
+      - href: ./ca/
         text: Català
-      - href: docs/es/index.html
+      - href: ./es/
         text: Español
   twitter-card: true
   open-graph: true
