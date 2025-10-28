@@ -15,13 +15,6 @@ website:
     title: "NeuroDevComp"
     logo: static/img/ndc-logo.png
     search: true
-    right:
-      - href: ./
-        text: English
-      - href: ./ca/
-        text: Català
-      - href: ./es/
-        text: Español
   twitter-card: true
   open-graph: true
   repo-actions: [edit, issue]

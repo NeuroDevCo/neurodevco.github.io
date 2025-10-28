@@ -1,5 +1,5 @@
 project:
-  output-dir: ./docs/
+  output-dir: ./docs/en
 
 
 lang: en
@@ -14,6 +14,12 @@ website:
       - icon: twitter
         href: https://github.com/neurodevco
         aria-label: Twitter
+      - href: ./
+        text: English
+      - href: ./ca/
+        text: Català
+      - href: ./es/
+        text: Español
     left:
       - href: people.qmd
         text: People
