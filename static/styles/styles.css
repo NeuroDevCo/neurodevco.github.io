@@ -127,14 +127,14 @@ h1 {
 }
 
 h2#toc-title {
-    font-family: 'Ciutadella SemiBold';
+    font-family: 'Ciutadella';
 }
 
 a.nav-link,
 .nav-link.active,
 #toc-title,
 .subtitle {
-    font-family: 'Ciutadella Bold';
+    font-family: 'Ciutadella';
     color: black;
     font-size: 18px;
 }
