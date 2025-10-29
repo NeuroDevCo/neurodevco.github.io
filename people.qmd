@@ -1,5 +1,5 @@
 ---
-image: /static/img/ndc-logo.png
+image: /static/img/sant-joan-1.jpg
 ---
 
 ::: {.content-visible when-profile="en"}

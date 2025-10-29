@@ -1,5 +1,5 @@
 ---
-image: //static/img/pccb.jpg
+image: /static/img/pccb.jpg
 ---
 
 

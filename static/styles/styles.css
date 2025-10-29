@@ -99,12 +99,12 @@ a {
 span.menu-text,
 span.navbar-title,
 .bi {
-    font-family: 'Ciutadella';
+    font-family: 'Roboto';
     font-size: 25px;
 }
 
 .sidebar {
-    font: 'Ciutadella Bold';
+    font: 'Roboto';
 }
 
 toc-active {
@@ -133,7 +133,7 @@ a.nav-link,
 .nav-link.active,
 #toc-title,
 .subtitle {
-    font-family: 'Ciutadella';
+    font-family: 'Roboto';
     color: black;
     font-size: 18px;
 }
