@@ -2,9 +2,9 @@
   {
     "listing": "/index.html",
     "items": [
-      "/people.html",
-      "/contact.html",
-      "/babies.html"
+      "/pages/people.html",
+      "/pages/contact.html",
+      "/pages/babies.html"
     ]
   }
 ]

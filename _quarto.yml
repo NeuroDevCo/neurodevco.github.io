@@ -1,9 +1,13 @@
 project:
   type: website
   output-dir: docs
+  execute-dir: project
   resources:
     - static/fonts/
     - static/img/background.svg
+  render:
+    - index.qmd
+    - pages/*.qmd
 
 profile:
   default: en
@@ -12,30 +16,25 @@ profile:
 
 website:
   navbar:
-    title: "NeuroDevComp"
-    logo: static/img/ndc-logo.png
     search: true
   twitter-card: true
   open-graph: true
   repo-actions: [edit, issue]
-  title: "NeuroDevComp"
-  favicon: static/img/favicon.ico
-  site-url: https://neurodevcomp.github.io
-  repo-url: https://github.com/NeuroDevComp/neurodevcomp.github.io
+  title: "NeuroDevCo"
+  favicon: /static/img/favicon.ico
+  site-url: https://neurodev.github.io
+  repo-url: https://github.com/NeuroDev/neurodevco.github.io
   page-footer:
-    left: "![](static/img/erc.png){height='80px' style='vertical-align: middle;'}"
+    left: "![](/static/img/erc.png){height='80px' style='vertical-align: middle;'}"
     right:
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com/
+        href: https://github.com/NeuroDevCo
     center: |
       {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
 
       {{< fa phone >}} +34 670 211 887
 
-      {{< fa envelope >}} [neurodevcomp@sjd.es](mailto:neurodevcomp@sjd.es)
-
+      {{< fa envelope >}} [neurodevco@sjd.es](mailto:neurodevco@sjd.es)
       <br>
 
     background: "#f1f1f1"
@@ -44,8 +43,10 @@ format:
   html:
     theme: cosmo
     css:
-      - static/styles/styles.css
+      - /static/styles/styles.css
     toc: true
+    toc-depth: 4
+    toc-title: "Index"
     smooth-scroll: true
     body-width: 1000px
     linkcolor: black
@@ -55,3 +56,6 @@ format:
       margin-width: 200px
     email-obfuscation: javascript
     include-before-body: static/templates/background.html
+    title-block-banner: true
+    title-block-style: plain
+    title-block-banner-color: black

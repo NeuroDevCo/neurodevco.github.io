@@ -1,4 +1,6 @@
 ---
+title: NeuroDevCo
+subtitle: Neurodevelopment and Comparative Cognition group
 listing:
     type: grid
     contents:
@@ -12,22 +14,20 @@ sidebar:
 toc: false
 ---
 
-::: {.content-visible .content-visible when-profile="en"}
-
-# Neurodevelopment and Comparative Cognition group
+::: {.content-visible when-profile="en"}
 
 <br>
 
 ::: {.logos-grid}
 :::: {.grid}
 ::::: {.g-col-4}
-![](/static/img/irsjd.png){width="100%"}
+![](static/img/irsjd.png){width="100%"}
 :::::
 ::::: {.g-col-4}
-![](/static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
 :::::
 ::::: {.g-col-4}
-![](/static/img/hsjd.png){width="300px"}
+![](static/img/hsjd.png){width="300px"}
 :::::
 ::::
 :::
@@ -35,7 +35,7 @@ toc: false
 <br>
 
 :::: textbox
-The Neurodevelopment and Comparative Cognition research group (**NeuroDevComp**) at the **Institut de Recerca Sant Joan de Déu** (Barcelona, Spain), led by **Dr. Chiara Santolin**, focuses on understanding the mechanisms underlying **cognitive and neural processes in human newborns and infants, and in other species**. By combining **developmental** and **cross-species approaches**, the group investigates **early-life experiences** shape **brain development** and **cognitive functions**. The ongoing research is mainly focused on uncovering the (evolutionary) origins of the mechanisms supporting **early language learning**, integrating research techniques from **Psychology**, **Cognitive Neuroscience** and **Biology**.
+The Neurodevelopment and Comparative Cognition research group (NeuroDevCo) at the [Institut de Recerca Sant Joan de Déu](https://www.irsjd.org) (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neural processes in human newborns and infants, and in other species. By combining developmental and cross-species approaches, the group investigates early-life experiences shape brain development and cognitive functions. The ongoing research is mainly focused on uncovering the (evolutionary) origins of the mechanisms supporting early language learning, integrating research techniques from Psychology, Cognitive Neuroscience and Biology.
 
 ::::
 
@@ -43,53 +43,20 @@ The Neurodevelopment and Comparative Cognition research group (**NeuroDevComp**)
 
 :::
 
-::: {.content-visible .content-visible when-profile="ca"}
-
-# Neurodevelopment and Comparative Cognition
+::: {.content-visible when-profile="ca"}
 
 <br>
 
 ::: {.logos-grid}
 :::: {.grid}
 ::::: {.g-col-4}
-![](/static/img/irsjd.png){width="100%"}
+![](static/img/irsjd.png){width="100%"}
 :::::
 ::::: {.g-col-4}
-![](/static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
 :::::
 ::::: {.g-col-4}
-![](/static/img/hsjd.png){width="300px"}
-:::::
-::::
-:::
-
-<br>
-
-:::: textbox
-El grup de recerca en Neurodesenvolupament i Cognició Comparada (**NeuroDevComp**) de l'**Institut de Recerca Sant Joan de Déu** (Barcelona, Espanya), liderat per la **Dra. Chiara Santolin**, es centra en comprendre els mecanismes subjacents als **processos cognitius i neuronals en nadons i nadons humans, i en altres espècies**. Combinant enfocaments de **desenvolupament** i *multiespeci*, el grup investiga com les *experiències de la vida primerenca* donen forma al *desenvolupament cerebral* i *funcions cognitives*. La recerca en curs es centra principalment en descobrir els orígens (evolucionaris) dels mecanismes que donen suport a l'**aprenentatge primerenc de la llengua**, integrant les tècniques de recerca de la **Psicologia**, la **Neurociència cognitiva** i la **Biologia**.
-
-::::
-
-<br>
-
-:::
-
-::: {.content-visible .content-visible when-profile="es"}
-
-# Neurodevelopment and Comparative Cognition
-
-<br>
-
-::: {.logos-grid}
-:::: {.grid}
-::::: {.g-col-4}
-![](/static/img/irsjd.png){width="100%"}
-:::::
-::::: {.g-col-4}
-![](/static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
-:::::
-::::: {.g-col-4}
-![](/static/img/hsjd.png){width="300px"}
+![](static/img/hsjd.png){width="300px"}
 :::::
 ::::
 :::
@@ -98,7 +65,37 @@ El grup de recerca en Neurodesenvolupament i Cognició Comparada (**NeuroDevComp
 
 :::: textbox
 
-El grupo de investigación Neurodesarrollo y Cognición Comparada (**NeuroDevComp**) del **Institut de Recerca Sant Joan de Déu** (Barcelona, ​​España), dirigido por la **Dra. Chiara Santolin**, se centra en comprender los mecanismos que subyacen a los **procesos cognitivos y neuronales en los recién nacidos y los bebés humanos, y en otras especies**. Mediante la combinación de enfoques **de desarrollo** y **interespecies**, el grupo investiga cómo las **experiencias de la vida temprana** dan forma al **desarrollo cerebral** y a las **funciones cognitivas**. La investigación en curso se centra principalmente en descubrir los orígenes (evolutivos) de los mecanismos que respaldan el **aprendizaje temprano del lenguaje**, integrando técnicas de investigación de la **Psicología**, la **neurociencia cognitiva** y la **biología**.
+El grup de recerca en Neurodesenvolupament i Cognició Comparada (NeuroDevCo) de l'[Institut de Recerca Sant Joan de Déu](https://www.irsjd.org) (Barcelona, Espanya), liderat per la Dra. Chiara Santolin, es centra en comprendre els mecanismes subjacents als processos cognitius i neuronals en nadons i nadons humans, i en altres espècies. Combinant enfocaments de desenvolupament i multiespeci, el grup investiga com les experiències de la vida primerenca donen forma al desenvolupament cerebral i funcions cognitives. La recerca en curs es centra principalment en descobrir els orígens (evolucionaris) dels mecanismes que donen suport a l'aprenentatge primerenc de la llengua, integrant les tècniques de recerca de la Psicologia, la Neurociència cognitiva i la Biologia.
+
+::::
+
+<br>
+
+:::
+
+::: {.content-visible when-profile="es"}
+
+<br>
+
+::: {.logos-grid}
+:::: {.grid}
+::::: {.g-col-4}
+![](static/img/irsjd.png){width="100%"}
+:::::
+::::: {.g-col-4}
+![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+:::::
+::::: {.g-col-4}
+![](static/img/hsjd.png){width="300px"}
+:::::
+::::
+:::
+
+<br>
+
+:::: textbox
+
+El grupo de investigación Neurodesarrollo y Cognición Comparada (NeuroDevCo) del [Institut de Recerca Sant Joan de Déu](https://www.irsjd.org) (Barcelona, ​​España), dirigido por la Dra. Chiara Santolin, se centra en comprender los mecanismos que subyacen a los procesos cognitivos y neuronales en los recién nacidos y los bebés humanos, y en otras especies. Mediante la combinación de enfoques de desarrollo y interespecies, el grupo investiga cómo las experiencias de la vida temprana dan forma al desarrollo cerebral y a las funciones cognitivas. La investigación en curso se centra principalmente en descubrir los orígenes (evolutivos) de los mecanismos que respaldan el aprendizaje temprano del lenguaje, integrando técnicas de investigación de la Psicología, la neurociencia cognitiva y la biología.
 
 ::::
 

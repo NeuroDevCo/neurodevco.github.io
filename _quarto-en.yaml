@@ -5,7 +5,7 @@ lang: en
 
 website:
   navbar:
-    title: "NeuroDevComp"
+    title: "Home"
     right:
       - icon: github
         href: https://github.com/neurodevco
@@ -20,13 +20,13 @@ website:
       - href: ./es/
         text: Español
     left:
-      - href: people.qmd
+      - href: pages/people.qmd
         text: People
       - text: Research
         menu:
           - text: Studies with babies
-            href: babies.qmd
+            href: pages/babies.qmd
           - text: Animal research
-            href: animals.qmd
-      - href: contact.qmd
+            href: pages/animals.qmd
+      - href: pages/contact.qmd
         text: Contact

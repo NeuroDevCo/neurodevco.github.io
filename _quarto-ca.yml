@@ -5,6 +5,7 @@ lang: ca
 
 website:
   navbar:
+    title: "Inici"
     right:
       - icon: github
         href: https://github.com/neurodevco
@@ -19,13 +20,13 @@ website:
       - href: ../es/
         text: Español
     left:
-      - href: people.qmd
+      - href: pages/people.qmd
         text: Qui som?
       - text: Recerca
         menu:
           - text: Estudis amb bebès
-            href: babies.qmd
+            href: pages/babies.qmd
           - text: Estudis amb animals
-            href: animals.qmd
-      - href: contact.qmd
+            href: pages/animals.qmd
+      - href: pages/contact.qmd
         text: Contacte
