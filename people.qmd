@@ -61,6 +61,8 @@ I work as research assistant for the GALA project. I facilitate research by aidi
 
 <h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
+![](/static/img/chara.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
 I am a MSc student working as a research assistant for the GALA project, mainly assisting with recruitment of families and data collection with newborns. I am currently enrolled in the MSc in Brain and Cognition at the Universitat Pompeu Fabra and also hold a masters in Clinical and Health Psychology from the Instituto Superior de Estudios Psicológicos.
 
 Before my postgraduate studies in Barcelona, I was based in the United Kingdom where I obtained my BSc in Psychology at the University of Bath, and worked as a research assistant in developmental neuroscience at Cardiff University and as an assistant psychologist in the NHS.
@@ -143,6 +145,8 @@ Actualment treball com a assistent de recerca per al projecte GALA. Facilito la 
 
 <h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
+![](/static/img/chara.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
 Soc estudiant de màster que treballa com a assistent de recerca per al projecte GALA, principalment contactant famílies i recollint dades amb nadons. Actualment estic matriculada al Màster en Cervell i Cognició de la Universitat Pompeu Fabra i també tinc un MSc en Psicologia Clínica i de la Salut de l'Instituto Superior de Estudios Psicológicos.
 
 Abans dels meus estudis de postgrau a Barcelona, em vaig establir al Regne Unit on vaig obtenir el meu BSc en Psicologia a la Universitat de Bath, i vaig treballar com a assistent de recerca en neurociència del desenvolupament a la Universitat de Cardiff i com a psicòleg adjunt al NHS.
@@ -223,6 +227,8 @@ Trabajo como asistente de investigación para el proyecto GALA. Facilito la inve
 <br>
 
 <h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+
+![](/static/img/chara.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
 Soy estudiante de máster que trabaja como asistente de investigación para el proyecto GALA, principalmente ayudante en la contratación de familias y la recogida de datos con bebés.  Actualmente estoy matriculada al Máster en Cerebro y Cognición de la Universitat Pompeu Fabra y también tengo un máster en Psicología Clínica y de la Salud del Instituto Superior de Estudios Psicológicos.
 
