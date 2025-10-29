@@ -21,13 +21,13 @@ toc: false
 ::: {.logos-grid}
 :::: {.grid}
 ::::: {.g-col-4}
-![](static/img/irsjd.png){width="100%"}
+![](/static/img/irsjd.png){width="100%"}
 :::::
 ::::: {.g-col-4}
-![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+![](/static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
 :::::
 ::::: {.g-col-4}
-![](static/img/hsjd.png){width="300px"}
+![](/static/img/hsjd.png){width="300px"}
 :::::
 ::::
 :::
@@ -52,13 +52,13 @@ The Neurodevelopment and Comparative Cognition research group (**NeuroDevComp**)
 ::: {.logos-grid}
 :::: {.grid}
 ::::: {.g-col-4}
-![](static/img/irsjd.png){width="100%"}
+![](/static/img/irsjd.png){width="100%"}
 :::::
 ::::: {.g-col-4}
-![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+![](/static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
 :::::
 ::::: {.g-col-4}
-![](static/img/hsjd.png){width="300px"}
+![](/static/img/hsjd.png){width="300px"}
 :::::
 ::::
 :::
@@ -83,13 +83,13 @@ El grup de recerca en Neurodesenvolupament i Cognició Comparada (**NeuroDevComp
 ::: {.logos-grid}
 :::: {.grid}
 ::::: {.g-col-4}
-![](static/img/irsjd.png){width="100%"}
+![](/static/img/irsjd.png){width="100%"}
 :::::
 ::::: {.g-col-4}
-![](static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
+![](/static/img/ndc-logo.svg){width="60%" style="align-content: center;"}
 :::::
 ::::: {.g-col-4}
-![](static/img/hsjd.png){width="300px"}
+![](/static/img/hsjd.png){width="300px"}
 :::::
 ::::
 :::
