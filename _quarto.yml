@@ -39,6 +39,7 @@ website:
       <br>
 
     background: "#f1f1f1"
+
 format:
   html:
     theme: cosmo

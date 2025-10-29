@@ -6,6 +6,8 @@ image: /static/img/babies.jpg
 
 # What kind of studies do we do?
 
+Find out more about our studies with newborns and infants!
+
 ## Newborns
 
 :::: textbox
@@ -40,6 +42,8 @@ Specifically, we are interested in learning **how infants segment speech into sm
 
 # Quin tipus d'estudis fem?
 
+Descobreix més sobre els nostres estudis amb nadons i nadons!
+
 ## Nounats
 
 :::: textbox
@@ -69,6 +73,8 @@ En concret, ens interessa **com els infants segmenten la parla en unitats petite
 :::
 
 # ¿Qué tipos de estudios hacemos?
+
+¡Descubre más sobre nuestros estudios con recién nacidos e infantes!
 
 ## Recién nacidos
 

@@ -6,6 +6,8 @@ image: /static/img/animals.jpg
 
 # Animal research
 
+Investigating the roots of language in other animal species.
+
 :::: textbox
 
 Did you know that **other animals are able to process and learn some properties of the human language**?
@@ -21,6 +23,8 @@ Stay tuned!
 
 # Els nostres estudis amb animals no humans
 
+Investigant les arrels del llenguatge en altres espècies animals.
+
 :::: textbox
 
 En el nostre grup de recerca estem interessats a fer un **enfocament multi-espècie** per entendre l'**aprenentatge i processament de la llengua**. Utilitzem models animals com les rates (*Rattus Norvegicus*) per provar la seva **capacitat de processar síl·labes i paraules**, dues unitats fonamentals de parla implementades com amb estímuls auditius i vibrotàtils.
@@ -32,6 +36,8 @@ En el nostre grup de recerca estem interessats a fer un **enfocament multi-espè
 ::: {.content-visible when-profile="es"}
 
 # Nuestros estudios con animales no humanos
+
+Investigando las raíces del lenguaje en otras especies animales.
 
 :::: textbox
 
