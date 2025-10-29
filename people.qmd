@@ -18,7 +18,7 @@ Meet current and former members and collaborators of the NeuroDevCo research gro
 
 I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
 
-I earned my Ph.D. in Psychology from the University of Padova (Italy) in 2016, with a specialization in animal cognition. After completing my doctorate studies, I did a post-doctoral training at the University of Wisconsin–Madison (USA) focusing on infant language learning. I then joined the Center for Brain and Cognition at Universitat Pompeu Fabra (Barcelona, Spain) as post-doctoral fellow where I mainly worked on the acquisition of syntax and syllabic structures, categorization processes and preferences for speech in infants, and learning of linguistic constraints in rats.
+I earned my PhD in Psychology from the University of Padova (Italy) in 2016, with a specialization in animal cognition. After completing my doctorate studies, I did a post-doctoral training at the University of Wisconsin–Madison (USA) focusing on infant language learning. I then joined the Center for Brain and Cognition at Universitat Pompeu Fabra (Barcelona, Spain) as post-doctoral fellow where I mainly worked on the acquisition of syntax and syllabic structures, categorization processes and preferences for speech in infants, and learning of linguistic constraints in rats.
 
 In 2024, I was awarded an ERC Starting Grant (European Union) for my project Gates to Language (GALA), which aims at investigating the origins of neural and cognitive mechanisms at the onset of language learning, testing humans at different developmental stages (0 to 10 month old), rats as animal model, and different sensory inputs (linguistic, auditory non-linguistic, and vibro-tactile).
 
@@ -31,21 +31,21 @@ In 2024, I was awarded an ERC Starting Grant (European Union) for my project Gat
 
 I am a post-doctoral researcher investigating language acquisition and how young minds make sense of the world. My work focuses on developmental psychology and psycholinguistics, studying how humans process language at different stages in development: from newborns to infants, toddlers, and adults. Under the GALA project, I investigate how neonates, infants, and non-human animals process different syllabic structures, searching for common mechanisms supporting language processing. To do this, I use a combination of eye-tracking, functional near-infrared spectroscopy (fNIRS), and computational modelling. with a special focus on computational reproducibility. Bayesian statistics are a big part of how I try to make sense of data.
 
-In 2024 I obtained my Ph.D. at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof. Núria Sebastian-Galles. I earned my B. Sc. in Psychology from the Universidad de Oviedo in 2013, and my M. Sc. in Neurosciences at the Universitat de Barcelona in 2018.
+In 2024 I obtained my PhD at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof. Núria Sebastian-Galles. I earned my BSc in Psychology from the Universidad de Oviedo in 2013, and my MSc in Neurosciences at the Universitat de Barcelona in 2018.
 
-In 2024 I obtained my Ph.D. at the Center for Brain and Cognition, **Universitat Pompeu Fabra**, supervised by Prof. Núria Sebastian-Galles. I earned my B. Sc. in Psychology from the **Universidad de Oviedo** in 2013, and my M. Sc. in Neurosciences at the **Universitat de Barcelona** in 2018.
+In 2024 I obtained my PhD at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof. Núria Sebastian-Galles. I earned my BSc in Psychology from the Universidad de Oviedo in 2013, and my MSc in Neurosciences at the Universitat de Barcelona in 2018.
 
-## Ph.D. students
+## PhD students
 
 <h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Floraachr" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
 ![](/static/img/flora.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I am a Ph.D. student at Universitat Pompeu Fabra in Barcelona, enrolled in the Ph.D. Program in Biomedicine. I am interested in the early acquisition and processing of language by infants, using different techniques such as behavioral ones, eye-tracking and fNIRS.
+I am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition and processing of language by infants, using different techniques such as behavioral ones, eye-tracking and fNIRS.
 
-I am a **Ph.D. student** at **Universitat Pompeu Fabra** in Barcelona, enrolled in the Ph.D. Program in Biomedicine. I am interested in the **early acquisition and processing of language** by infants, using different techniques such as **behavioral** ones, **eye-tracking** and **fNIRS**.
+I am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition and processing of language by infants, using different techniques such as behavioral ones, eye-tracking and fNIRS.
 
-I obtained my **M. Sc. in Integrative Biology and Physiology**, specialized in Behavioral Neurosciences in **La Sorbonne Université** and spent a year working as a research engineer on the early acquisition of language in the **INCC**--Language & Cognition team in Paris. I am currently involved in the GALA project investigating **how babies, at only a few months old, perceive syllables**.
+I obtained my MSc in Integrative Biology and Physiology, specialized in Behavioral Neurosciences in La Sorbonne Université and spent a year working as a research engineer on the early acquisition of language in the INCC--Language & Cognition team in Paris. I am currently involved in the GALA project investigating how babies, at only a few months old, perceive syllables.
 
 <br>
 
@@ -55,7 +55,17 @@ I obtained my **M. Sc. in Integrative Biology and Physiology**, specialized in B
 
 ![](/static/img/laura.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I work as research assistant for the GALA project. I facilitate research by aiding data collection, providing logistic and administrative support, and taking care of the call center to invite families to participate in our studies. I obtained my M. Sc. in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my BA in Psychology at Bethany College (Kansas, USA). I am very interested in research aiming to understand language acquisition mechanisms and strategies, with a special focus on understudied populations, languages, and dialects.
+I work as research assistant for the GALA project. I facilitate research by aiding data collection, providing logistic and administrative support, and taking care of the call center to invite families to participate in our studies. I obtained my MSc in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my BA in Psychology at Bethany College (Kansas, USA). I am very interested in research aiming to understand language acquisition mechanisms and strategies, with a special focus on understudied populations, languages, and dialects.
+
+<br>
+
+<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+
+I am a MSc student working as a research assistant for the GALA project, mainly assisting with recruitment of families and data collection with newborns. I am currently enrolled in the MSc in Brain and Cognition at the Universitat Pompeu Fabra and also hold a masters in Clinical and Health Psychology from the Instituto Superior de Estudios Psicológicos.
+
+Before my postgraduate studies in Barcelona, I was based in the United Kingdom where I obtained my BSc in Psychology at the University of Bath, and worked as a research assistant in developmental neuroscience at Cardiff University and as an assistant psychologist in the NHS.
+
+As an aim to bridge clinical psychology and neuroscience, one of my research interests lies in how studying early language development can help to integrate knowledge from developmental neuroscience with clinical applications of neuropsychology, and ultimately contribute to a better understanding of language-related developmental disorders or atypical development.
 
 <br>
 
@@ -65,7 +75,11 @@ I work as research assistant for the GALA project. I facilitate research by aidi
 
 ![](/static/img/silvia.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-I am a research assistant involved in the GALA project. I am currently finishing my degree in Biomedical Engineering at Universitat Pompeu Fabra, where I have developed a strong interest in neuroscience and cognitive development. As part of my role, I support the team by preparing the experimental setup, collecting the data and accompanying families and their infants throughout the studies. In parallel, I am working on my final degree project, which focuses on developing a multimodal system to study brain activity in 4 to 5-month-old infants by integrating Electroencephalography (EEG), functional near-infrared spectroscopy (fNIRS) and functional diffusion correlation spectroscopy (fDCS). The goal is to combine the high temporal resolution of EEG with the spatial one provided by the other two optical techniques. As part of this work, I am also developing a custom component to ensure good signal quality, especially in infants with dense or dark hair, improving the overall reliability of the system. I am very interested in the intersection between technology and neuroscience, and I am committed to continue contributing to research that improves our understanding of how infants perceive and learn from the world around them.
+I am a research assistant involved in the GALA project. I am currently finishing my degree in Biomedical Engineering at Universitat Pompeu Fabra, where I have developed a strong interest in neuroscience and cognitive development. As part of my role, I support the team by preparing the experimental setup, collecting the data and accompanying families and their infants throughout the studies.
+
+In parallel, I am working on my final degree project, which focuses on developing a multimodal system to study brain activity in 4 to 5-month-old infants by integrating Electroencephalography (EEG), functional near-infrared spectroscopy (fNIRS) and functional diffusion correlation spectroscopy (fDCS). The goal is to combine the high temporal resolution of EEG with the spatial one provided by the other two optical techniques. As part of this work, I am also developing a custom component to ensure good signal quality, especially in infants with dense or dark hair, improving the overall reliability of the system.
+
+I am very interested in the intersection between technology and neuroscience, and I am committed to continue contributing to research that improves our understanding of how infants perceive and learn from the world around them.
 
 :::
 
@@ -84,11 +98,11 @@ Coneix els actuals i antics membres i col·laboradors/as del grup de recerca Neu
 
 ![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soc una científica cognitiva especialitzada en l'adquisició del llenguatge i la cognició comparativa. Treball com a **Investigadora Principal** en el **Institut de Recerca Sant Joan de Déu**. La meva recerca explora els mecanismes cognitius darrere de l'**aprenentatge del llenguatge**, en particular **com els bebès detecten i categoritzen les estructures lingüístiques** des d'una edat primerenca. També m'interessa la **cognició comparativa**, investigant si existeixen processos d'aprenentatge similars en espècies no humanes. A través del meu treball, pretenc comprendre les arrels evolutives del llenguatge i els principis fonamentals que guien l'aprenentatge en totes les espècies.
+Soc una científica cognitiva especialitzada en l'adquisició del llenguatge i la cognició comparativa. Treball com a Investigadora Principal en el Institut de Recerca Sant Joan de Déu. La meva recerca explora els mecanismes cognitius darrere de l'aprenentatge del llenguatge, en particular com els bebès detecten i categoritzen les estructures lingüístiques des d'una edat primerenca. També m'interessa la cognició comparativa, investigant si existeixen processos d'aprenentatge similars en espècies no humanes. A través del meu treball, pretenc comprendre les arrels evolutives del llenguatge i els principis fonamentals que guien l'aprenentatge en totes les espècies.
 
-Vaig obtenir el meu doctorat en Psicologia de la **Universitat de Pàdua** en 2016, després d'un mestratge en Psicologia Experimental i Ciències Cognitives de la mateixa institució en 2013. Després de completar el meu doctorat, vaig realitzar una recerca postdoctoral en el **Centre Waisman de la Universitat de Wisconsin-Madison**, centrant-me en l'aprenentatge del llenguatge infantil. En 2017, em vaig unir al Grup d'Adquisició i Percepció de la Parla de la **Universitat Pompeu Fabra** a Barcelona, ​​on vaig investigar l'adquisició d'estructures sintàctiques i sil·làbiques, els processos de categorització i les preferències de parla dels bebès.
+Vaig obtenir el meu doctorat en Psicologia de la Universitat de Pàdua en 2016, després d'un mestratge en Psicologia Experimental i Ciències Cognitives de la mateixa institució en 2013. Després de completar el meu doctorat, vaig realitzar una recerca postdoctoral en el Centre Waisman de la Universitat de Wisconsin-Madison, centrant-me en l'aprenentatge del llenguatge infantil. En 2017, em vaig unir al Grup d'Adquisició i Percepció de la Parla de la Universitat Pompeu Fabra a Barcelona, ​​on vaig investigar l'adquisició d'estructures sintàctiques i sil·làbiques, els processos de categorització i les preferències de parla dels bebès.
 
-En 2024, vaig rebre una **ERC Starting Grant** per al meu projecte **Gates to Language** (GALA), que té com a objectiu explorar els patrons evolutius dels mecanismes involucrats en l'aprenentatge del llenguatge en humans i animals no humans. Actualment, continuo la meva recerca sobre l'aprenentatge estadístic, el desenvolupament del llenguatge infantil i la cognició animal.
+En 2024, vaig rebre una ERC Starting Grant per al meu projecte Gates to Language (GALA), que té com a objectiu explorar els patrons evolutius dels mecanismes involucrats en l'aprenentatge del llenguatge en humans i animals no humans. Actualment, continuo la meva recerca sobre l'aprenentatge estadístic, el desenvolupament del llenguatge infantil i la cognició animal.
 
 <br>
 
@@ -99,9 +113,9 @@ En 2024, vaig rebre una **ERC Starting Grant** per al meu projecte **Gates to La
 
 ![](/static/img/gonzalo.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soc investigador postdoctoral i treball en la **adquisició del llenguatge** i en **com les ments dels més petits li donen sentit al món**. El meu treball es centra en la psicologia del desenvolupament i la psicolingüística, estudiant com els humans processen el llenguatge en diferents etapes del desenvolupament: des de **nounats** fins a **infants**, **nens petits** i **adults**. En el marc del projecte GALA, investigo com els nounats, els bebès i els animals no humans processen diferents estructures sil·làbiques, buscant mecanismes comuns que recolzin el processament del llenguatge. Per a això, faig servir una combinació de **seguiment ocular**, espectroscòpia funcional d'infraroig pròxim (**fNIRS**) i **modelatge computacional**, amb un enfocament especial en la **reproducibilidad computacional**. Les **estadístiques bayesianes** són una part important de com intento donar sentit a les dades que recull en els meus estudis.
+Soc investigador postdoctoral i treball en la adquisició del llenguatge i en com les ments dels més petits li donen sentit al món. El meu treball es centra en la psicologia del desenvolupament i la psicolingüística, estudiant com els humans processen el llenguatge en diferents etapes del desenvolupament: des de nounats fins a infants, nens petits i adults. En el marc del projecte GALA, investigo com els nounats, els bebès i els animals no humans processen diferents estructures sil·làbiques, buscant mecanismes comuns que recolzin el processament del llenguatge. Per a això, faig servir una combinació de seguiment ocular, espectroscòpia funcional d'infraroig pròxim (fNIRS) i modelatge computacional, amb un enfocament especial en la reproducibilidad computacional. Les estadístiques bayesianes són una part important de com intento donar sentit a les dades que recull en els meus estudis.
 
-Em vaig graduar en Psicologia en la **Universitat d'Oviedo** en 2013 i vaig obtenir un màster en Neurociències a la **Universitat de Barcelona** en 2018. En 2024 vaig obtenir el meu doctorat en el Centre de Cervell i Cognició de la **Universitat Pompeu Fabra**, supervisat per la Prof. Núria Sebastian-Galles.
+Em vaig graduar en Psicologia en la Universitat d'Oviedo en 2013 i vaig obtenir un màster en Neurociències a la Universitat de Barcelona en 2018. En 2024 vaig obtenir el meu doctorat en el Centre de Cervell i Cognició de la Universitat Pompeu Fabra, supervisat per la Prof. Núria Sebastian-Galles.
 
 <br>
 
@@ -111,9 +125,9 @@ Em vaig graduar en Psicologia en la **Universitat d'Oviedo** en 2013 i vaig obte
 
 ![](/static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soc **estudiant de doctorat** a la **Universitat Pompeu Fabra** de Barcelona, ​​matriculada en el Programa de Doctorat en Biomedicina. Estic interessada en la **adquisició i processament primerenc del llenguatge* per part dels bebès, utilitzant diferents tècniques com les **conductuals**, **eye-tracking** i **fNIRS**.
+Soc estudiant de doctorat a la Universitat Pompeu Fabra de Barcelona, ​​matriculada en el Programa de Doctorat en Biomedicina. Estic interessada en la adquisició i processament primerenc del llenguatge* per part dels bebès, utilitzant diferents tècniques com les conductuals, eye-tracking i fNIRS.
 
-Vaig obtenir el meu **MSc en Biologia Integrativa i Fisiologia**---especialitzada en Neurociències del Comportament en **La Sorbonne Université** i vaig passar un any treballant com a enginyera de recerca en l'adquisició primerenca del llenguatge en el **INCC**---equip de Llenguatge i Cognició a París. Actualment estic involucrada en el projecte GAL·LA que investiga **com els bebès, amb tan sols uns mesos d'edat, perceben les síl·labes**.
+Vaig obtenir el meu MSc en Biologia Integrativa i Fisiologia---especialitzada en Neurociències del Comportament en La Sorbonne Université i vaig passar un any treballant com a enginyera de recerca en l'adquisició primerenca del llenguatge en el INCC---equip de Llenguatge i Cognició a París. Actualment estic involucrada en el projecte GAL·LA que investiga com els bebès, amb tan sols uns mesos d'edat, perceben les síl·labes.
 
 <br>
 
@@ -123,7 +137,19 @@ Vaig obtenir el meu **MSc en Biologia Integrativa i Fisiologia**---especialitzad
 
 ![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Actualment treball com a assistent de recerca per al projecte GALLA. Facilito la recerca ajudant en la **recol·lecció de dades**, brindant **suport logístic i administratiu** i ocupant-me del centre de trucades per a **convidar a les famílies a participar** en els nostres estudis. Vaig obtenir el meu mestratge en **Lingüística Clínica i Experimental Internacional** en la **Universitat de Potsdam** (Potsdam, Alemanya), i la meva **llicenciatura en Psicologia** en el **Bethany College** (Kansas, els EUA). M'interessa molt la recerca que apunta a comprendre els **mecanismes i estratègies d'adquisició del llenguatge**, principalment enfocada en **poblacions, idiomes i dialectes poc estudiats**.
+Actualment treball com a assistent de recerca per al projecte GALA. Facilito la recerca ajudant en la recol·lecció de dades, brindant suport logístic i administratiu i ocupant-me del centre de trucades per a convidar a les famílies a participar en els nostres estudis. Vaig obtenir el meu mestratge en Lingüística Clínica i Experimental Internacional en la Universitat de Potsdam (Potsdam, Alemanya), i la meva llicenciatura en Psicologia en el Bethany College (Kansas, els EUA). M'interessa molt la recerca que apunta a comprendre els mecanismes i estratègies d'adquisició del llenguatge, principalment enfocada en poblacions, idiomes i dialectes poc estudiats.
+
+<br>
+
+<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+
+Soc estudiant de màster que treballa com a assistent de recerca per al projecte GALA, principalment contactant famílies i recollint dades amb nadons. Actualment estic matriculada al Màster en Cervell i Cognició de la Universitat Pompeu Fabra i també tinc un MSc en Psicologia Clínica i de la Salut de l'Instituto Superior de Estudios Psicológicos.
+
+Abans dels meus estudis de postgrau a Barcelona, em vaig establir al Regne Unit on vaig obtenir el meu BSc en Psicologia a la Universitat de Bath, i vaig treballar com a assistent de recerca en neurociència del desenvolupament a la Universitat de Cardiff i com a psicòleg adjunt al NHS.
+
+Com a objectiu de pont entre la psicologia clínica i la neurociència, un dels meus interessos de recerca rau en com estudiar el desenvolupament del llenguatge primerenc pot ajudar a integrar el coneixement de la neurociència del desenvolupament amb les aplicacions clíniques de la neuropsicologia, i en última instància contribuir a una millor comprensió dels trastorns del desenvolupament relacionats amb el llenguatge o el desenvolupament atípic.
+
+<br>
 
 ## Han format part de l'equip
 
@@ -131,7 +157,11 @@ Actualment treball com a assistent de recerca per al projecte GALLA. Facilito la
 
 ![](/static/img/silvia.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Sóc assistent de recerca en el projecte GALA. Actualment estic acabant el grau en Enginyeria Biomèdica a la Universitat Pompeu Fabra, on he desenvolupat un gran interès per la neurociència i el desenvolupament cognitiu. El meu rol, consisteix en donar suport a l'equip preparant l'estudi, recollint les dades i acompanyant les famílies al llarg dels estudis. Paral·lelament, estic treballant en el meu projecte de final de grau, que es centra en el desenvolupament d'un sistema multimodal per estudiar l'activitat cerebral en infants de 4 a 5 mesos, integrant electroencefalografia (EEG), espectroscòpia funcional propera a l'infraroig (fNIRS) i espectroscòpia funcional de correlació difusa (fDCS). L'objectiu és combinar la gran resolució temporal de l'EEG amb la resolució espacial que ofereixen les dues tènciques òptiques. Com a part d'aquest projecte, també estic desenvolupant una peça per garantir una bona qualitat del senyal, especialment en infants amb cabell dens o fosc, millorant així la fiabilitat general del sistema i la qualitat de les dades. Tinc interès en la intersecció entre la tecnologia i la neurociència, i estic compromesa a continuar contribuint a la recerca que ens ajuda a entendre com els infants perceben i aprenen del món que els envolta.
+Sóc assistent de recerca en el projecte GALA. Actualment estic acabant el grau en Enginyeria Biomèdica a la Universitat Pompeu Fabra, on he desenvolupat un gran interès per la neurociència i el desenvolupament cognitiu. El meu rol, consisteix en donar suport a l'equip preparant l'estudi, recollint les dades i acompanyant les famílies al llarg dels estudis.
+
+Paral·lelament, estic treballant en el meu projecte de final de grau, que es centra en el desenvolupament d'un sistema multimodal per estudiar l'activitat cerebral en infants de 4 a 5 mesos, integrant electroencefalografia (EEG), espectroscòpia funcional propera a l'infraroig (fNIRS) i espectroscòpia funcional de correlació difusa (fDCS). L'objectiu és combinar la gran resolució temporal de l'EEG amb la resolució espacial que ofereixen les dues tènciques òptiques.
+
+Com a part d'aquest projecte, també estic desenvolupant una peça per garantir una bona qualitat del senyal, especialment en infants amb cabell dens o fosc, millorant així la fiabilitat general del sistema i la qualitat de les dades. Tinc interès en la intersecció entre la tecnologia i la neurociència, i estic compromesa a continuar contribuint a la recerca que ens ajuda a entendre com els infants perceben i aprenen del món que els envolta.
 
 :::
 
@@ -149,11 +179,11 @@ Conoce a los miembros actuales y anteriores colaboradores/as del grupo de invest
 
 ![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soy una científica cognitiva especializada en la adquisición del lenguaje y la cognición comparativa. Trabajo como **Investigadora Principal** en el **Institut de Recerca Sant Joan de Déu**. Mi investigación explora los mecanismos cognitivos detrás del **aprendizaje del lenguaje**, en particular cómo los bebés detectan y categorizan las estructuras lingüísticas desde una edad temprana. También me interesa la **cognición comparativa**, investigando si existen procesos de aprendizaje similares en especies no humanas. A través de mi trabajo, pretendo comprender las **raíces evolutivas del lenguaje** y los **principios fundamentales que guían el aprendizaje en todas las especies**.
+Soy una científica cognitiva especializada en la adquisición del lenguaje y la cognición comparativa. Trabajo como Investigadora Principal en el Institut de Recerca Sant Joan de Déu. Mi investigación explora los mecanismos cognitivos detrás del aprendizaje del lenguaje, en particular cómo los bebés detectan y categorizan las estructuras lingüísticas desde una edad temprana. También me interesa la cognición comparativa, investigando si existen procesos de aprendizaje similares en especies no humanas. A través de mi trabajo, pretendo comprender las raíces evolutivas del lenguaje y los principios fundamentales que guían el aprendizaje en todas las especies.
 
-Obtuve mi doctorado en Psicología de la **Universidad de Padua** en 2016, después de una maestría en Psicología Experimental y Ciencias Cognitivas de la misma institución en 2013. Después de completar mi doctorado, realicé una investigación posdoctoral en el **Centro Waisman de la Universidad de Wisconsin-Madison**, centrándome en el aprendizaje del lenguaje infantil. En 2017, me uní al Grupo de Adquisición y Percepción del Habla de la **Universitat Pompeu Fabra** en Barcelona, ​​donde investigué la adquisición de estructuras sintácticas y silábicas, los procesos de categorización y las preferencias de habla de los bebés.
+Obtuve mi doctorado en Psicología de la Universidad de Padua en 2016, después de una maestría en Psicología Experimental y Ciencias Cognitivas de la misma institución en 2013. Después de completar mi doctorado, realicé una investigación posdoctoral en el Centro Waisman de la Universidad de Wisconsin-Madison, centrándome en el aprendizaje del lenguaje infantil. En 2017, me uní al Grupo de Adquisición y Percepción del Habla de la Universitat Pompeu Fabra en Barcelona, ​​donde investigué la adquisición de estructuras sintácticas y silábicas, los procesos de categorización y las preferencias de habla de los bebés.
 
-En 2024, recibí una **ERC Starting Grant** para mi proyecto **Gates to Language** (GALA), que tiene como objetivo explorar los patrones evolutivos de los mecanismos involucrados en el aprendizaje del lenguaje en humanos y animales no humanos. Actualmente, continúo mi investigación sobre el aprendizaje estadístico, el desarrollo del lenguaje infantil y la cognición animal.
+En 2024, recibí una ERC Starting Grant para mi proyecto Gates to Language (GALA), que tiene como objetivo explorar los patrones evolutivos de los mecanismos involucrados en el aprendizaje del lenguaje en humanos y animales no humanos. Actualmente, continúo mi investigación sobre el aprendizaje estadístico, el desarrollo del lenguaje infantil y la cognición animal.
 
 <br>
 
@@ -164,9 +194,9 @@ En 2024, recibí una **ERC Starting Grant** para mi proyecto **Gates to Language
 
 ![](/static/img/gonzalo.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soy investigador postdoctoral y trabajo en la **adquisición del lenguaje** y en **cómo las mentes de los más pequeños dan sentido al mundo**. Mi trabajo se centra en la psicología del desarrollo y la psicolingüística, estudiando cómo los humanos procesan el lenguaje en diferentes etapas del desarrollo: desde **recién nacidos** hasta **infantes**, **niños pequeños** y **adultos**. En el marco del proyecto GALA, investigo cómo los neonatos, los bebés y los animales no humanos procesan diferentes estructuras silábicas, buscando mecanismos comunes que respalden el procesamiento del lenguaje. Para ello, utilizo una combinación de **seguimiento ocular**, espectroscopia funcional de infrarrojo cercano (**fNIRS**) y **modelado computacional**, con un enfoque especial en la **reproducibilidad computacional**. La **estadística bayesiana** es una parte importante de cómo intento dar sentido a los datos que recojo durante mis estudios.
+Soy investigador postdoctoral y trabajo en la adquisición del lenguaje y en cómo las mentes de los más pequeños dan sentido al mundo. Mi trabajo se centra en la psicología del desarrollo y la psicolingüística, estudiando cómo los humanos procesan el lenguaje en diferentes etapas del desarrollo: desde recién nacidos hasta infantes, niños pequeños y adultos. En el marco del proyecto GALA, investigo cómo los neonatos, los bebés y los animales no humanos procesan diferentes estructuras silábicas, buscando mecanismos comunes que respalden el procesamiento del lenguaje. Para ello, utilizo una combinación de seguimiento ocular, espectroscopia funcional de infrarrojo cercano (fNIRS) y modelado computacional, con un enfoque especial en la reproducibilidad computacional. La estadística bayesiana es una parte importante de cómo intento dar sentido a los datos que recojo durante mis estudios.
 
-Me gradué en Psicología en la **Universidad de Oviedo** en 2013 y obtuve un máster en Neurociencias en la **Universitat de Barcelona** en 2018. En 2024 obtuve mi doctorado en el Centro de Cerebro y Cognición de la **Universitat Pompeu Fabra**, supervisado por la profesora Núria Sebastian-Galles.
+Me gradué en Psicología en la Universidad de Oviedo en 2013 y obtuve un máster en Neurociencias en la Universitat de Barcelona en 2018. En 2024 obtuve mi doctorado en el Centro de Cerebro y Cognición de la Universitat Pompeu Fabra, supervisado por la profesora Núria Sebastian-Galles.
 
 <br>
 
@@ -176,9 +206,9 @@ Me gradué en Psicología en la **Universidad de Oviedo** en 2013 y obtuve un m�
 
 ![](/static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soy **estudiante de doctorado** en la **Universitat Pompeu Fabra** de Barcelona, ​​matriculada en el Programa de Doctorado en Biomedicina. Estoy interesada en la **adquisición y procesamiento temprano del lenguaje** por parte de los bebés, utilizando diferentes técnicas como las **conductuales**, **eye-tracking** y **fNIRS**.
+Soy estudiante de doctorado en la Universitat Pompeu Fabra de Barcelona, ​​matriculada en el Programa de Doctorado en Biomedicina. Estoy interesada en la adquisición y procesamiento temprano del lenguaje por parte de los bebés, utilizando diferentes técnicas como las conductuales, eye-tracking y fNIRS.
 
-Obtuve mi **máster en Biología Integrativa y Fisiología**---especializada en Neurociencias del Comportamiento en **La Sorbonne Université** y pasé un año trabajando como ingeniera de investigación en la adquisición temprana del lenguaje en el **INCC**---equipo de Lenguaje y Cognición en París. Actualmente estoy involucrada en el proyecto GALA que investiga **cómo los bebés, con tan solo unos meses de edad, perciben las sílabas**.
+Obtuve mi máster en Biología Integrativa y Fisiología---especializada en Neurociencias del Comportamiento en La Sorbonne Université y pasé un año trabajando como ingeniera de investigación en la adquisición temprana del lenguaje en el INCC---equipo de Lenguaje y Cognición en París. Actualmente estoy involucrada en el proyecto GALA que investiga cómo los bebés, con tan solo unos meses de edad, perciben las sílabas.
 
 <br>
 
@@ -188,7 +218,19 @@ Obtuve mi **máster en Biología Integrativa y Fisiología**---especializada en 
 
 ![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Trabajo como asistente de investigación para el proyecto GALA. Facilito la investigación en el proyecto ayudando en la **recolección de datos**, brindando **apoyo logístico y administrativo** y ocupándome del centro de llamadas para **invitar a las familias a participar** en nuestros estudios. Obtuve mi maestría en **Lingüística Clínica y Experimental Internacional** en la **Universidad de Potsdam** (Potsdam, Alemania), y mi **licenciatura en Psicología** en el **Bethany College** (Kansas, EE. UU.). Me interesa mucho la investigación que apunta a comprender los **mecanismos y estrategias de adquisición del lenguaje**, principalmente enfocada en **poblaciones, idiomas y dialectos poco estudiados**.
+Trabajo como asistente de investigación para el proyecto GALA. Facilito la investigación en el proyecto ayudando en la recolección de datos, brindando apoyo logístico y administrativo y ocupándome del centro de llamadas para invitar a las familias a participar en nuestros estudios. Obtuve mi maestría en Lingüística Clínica y Experimental Internacional en la Universidad de Potsdam (Potsdam, Alemania), y mi licenciatura en Psicología en el Bethany College (Kansas, EE. UU.). Me interesa mucho la investigación que apunta a comprender los mecanismos y estrategias de adquisición del lenguaje, principalmente enfocada en poblaciones, idiomas y dialectos poco estudiados.
+
+<br>
+
+<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+
+Soy estudiante de máster que trabaja como asistente de investigación para el proyecto GALA, principalmente ayudante en la contratación de familias y la recogida de datos con bebés.  Actualmente estoy matriculada al Máster en Cerebro y Cognición de la Universitat Pompeu Fabra y también tengo un máster en Psicología Clínica y de la Salud del Instituto Superior de Estudios Psicológicos.
+
+Antes de mis estudios de posgrado en Barcelona, me establecí en el Reino Unido donde obtuve mi BSc en Psicología en la Universidad de Bath. Allí trabajé como asistente de investigación en neurociencia del desarrollo en la Universidad de Cardiff, y como psicóloga adjunta al NHS.
+
+Con el objetivo de conectar la psicología clínica y la neurociencia, uno de mis intereses académicos consiste en investigar el desarrollo del lenguaje temprano, y también en ayudar a integrar el conocimiento de la neurociencia del desarrollo con las aplicaciones clínicas de la neuropsicología. En general, me gustaría contribuir a una mejor comprensión de los trastornos del desarrollo relacionados con el lenguaje o el desarrollo atípico.
+
+<br>
 
 ## Han formado parte del equipo
 
@@ -196,6 +238,10 @@ Trabajo como asistente de investigación para el proyecto GALA. Facilito la inve
 
 ![](/static/img/silvia.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Soy asistente de investigación en el proyecto GALA. Actualmente estoy finalizando el grado en Ingeniería Biomédica en la Universitat Pompeu Fabra, donde he desarrollado un gran interés por la neurociencia y el desarrollo cognitivo. Como parte de mi rol, doy soporte al equipo preparando el estudio, recogiendo los datos y acompañando a las familias y a sus infantes durante los estudios. Paralelamente, estoy acabando mi trabajo de fin de grado, que se centra en el desarrollo de un sistema multimodal para estudiar la actividad cerebral en infantes de 4 a 5 meses, integrando electroencefalograía (EEG), espectroscopia funcional en el infrarrojo cercano (fNIRS) y espectroscopia funcional de correlación difusa (fDCS). El objetivo es combinar la alta resolución temporal del EEG con la resolución espacial que aportan las dos técnicas ópticas. Como parte de este proyecto, también estoy desarrollando una pieza para garantizar una buena calidad de señal, especialmente en infantes con cabello denso u oscuro, mejorando así la fiabilidad del sistema y la calidad de los datos. Me interesa la intersección entre la tecnología y la neurociencia, y estoy comprometida a seguir contribuyendo a la investigación que mejora nuestra comprensión sobre cómo los bebés perciben y aprenden del mundo que les rodea.
+Soy asistente de investigación en el proyecto GALA. Actualmente estoy finalizando el grado en Ingeniería Biomédica en la Universitat Pompeu Fabra, donde he desarrollado un gran interés por la neurociencia y el desarrollo cognitivo. Como parte de mi rol, doy soporte al equipo preparando el estudio, recogiendo los datos y acompañando a las familias y a sus infantes durante los estudios.
+
+Paralelamente, estoy acabando mi trabajo de fin de grado, que se centra en el desarrollo de un sistema multimodal para estudiar la actividad cerebral en infantes de 4 a 5 meses, integrando electroencefalograía (EEG), espectroscopia funcional en el infrarrojo cercano (fNIRS) y espectroscopia funcional de correlación difusa (fDCS). El objetivo es combinar la alta resolución temporal del EEG con la resolución espacial que aportan las dos técnicas ópticas.
+
+Como parte de este proyecto, también estoy desarrollando una pieza para garantizar una buena calidad de señal, especialmente en infantes con cabello denso u oscuro, mejorando así la fiabilidad del sistema y la calidad de los datos. Me interesa la intersección entre la tecnología y la neurociencia, y estoy comprometida a seguir contribuyendo a la investigación que mejora nuestra comprensión sobre cómo los bebés perciben y aprenden del mundo que les rodea.
 
 :::
