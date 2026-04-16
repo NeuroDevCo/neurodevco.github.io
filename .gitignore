@@ -1,3 +1,5 @@
 /*.scss
 /.quarto/
 /docs/**/docs/
+
+**/*.quarto_ipynb

@@ -2,13 +2,16 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.36">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
 <title>animals – NeuroDevCo</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -37,10 +40,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-267c14f58b1326f1ddcbae34f0ac73f4.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-ad1366f87b31c41a01329b2e977a54b6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -185,197 +188,101 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
 <style>
-
     /* css styles */
-
     @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-
-
     @font-face {
-
         font-family: 'Ciutadella Italic';
-
         font-style: italic;
-
         font-weight: normal;
-
         src: url('static/fonts/Ciutadella/Ciutadella-RegularItalic.eot');
-
         src: local('Ciutadella Italic'), local('Ciutadella-RegularItalic'),
-
             url('static/fonts/Ciutadella/Ciutadella-RegularItalic.eot?#iefix') format('embedded-opentype'),
-
             url('static/fonts/Ciutadella/Ciutadella-RegularItalic.woff2') format('woff2'),
-
             url('static/fonts/Ciutadella/Ciutadella-RegularItalic.woff') format('woff'),
-
             url('static/fonts/Ciutadella/Ciutadella-RegularItalic.ttf') format('truetype');
-
     }
 
-
-
     @font-face {
-
         font-family: 'Ciutadella Bold';
-
         font-style: normal;
-
         font-weight: bold;
-
         src: url('static/fonts/Ciutadella/Ciutadella-Bold.eot');
-
         src: local('Ciutadella Bold'), local('Ciutadella-Bold'),
-
             url('static/fonts/Ciutadella/Ciutadella-Bold.eot?#iefix') format('embedded-opentype'),
-
             url('static/fonts/Ciutadella/Ciutadella-Bold.woff2') format('woff2'),
-
             url('static/fonts/Ciutadella/Ciutadella-Bold.woff') format('woff'),
-
             url('static/fonts/Ciutadella/Ciutadella-Bold.ttf') format('truetype');
-
     }
 
-
-
     @font-face {
-
         font-family: 'Ciutadella Bold Italic';
-
         font-style: italic;
-
         font-weight: bold;
-
         src: url('static/fonts/Ciutadella/Ciutadella-BoldItalic.eot');
-
         src: local('Ciutadella Bold Italic'), local('Ciutadella-BoldItalic'),
-
             url('static/fonts/Ciutadella/Ciutadella-BoldItalic.eot?#iefix') format('embedded-opentype'),
-
             url('static/fonts/Ciutadella/Ciutadella-BoldItalic.woff2') format('woff2'),
-
             url('static/fonts/Ciutadella/Ciutadella-BoldItalic.woff') format('woff'),
-
             url('static/fonts/Ciutadella/Ciutadella-BoldItalic.ttf') format('truetype');
-
     }
 
-
-
     @font-face {
-
         font-family: 'Ciutadella Regular';
-
         font-style: normal;
-
         font-weight: normal;
-
         src: url('static/fonts/Ciutadella/Ciutadella-Regular.eot');
-
         src: local('Ciutadella'), local('Ciutadella-Regular'),
-
             url('static/fonts/Ciutadella/Ciutadella-Regular.eot?#iefix') format('embedded-opentype'),
-
             url('static/fonts/Ciutadella/Ciutadella-Regular.woff2') format('woff2'),
-
             url('static/fonts/Ciutadella/Ciutadella-Regular.woff') format('woff'),
-
             url('static/fonts/Ciutadella/Ciutadella-Regular.ttf') format('truetype');
-
     }
 
-
-
     @font-face {
-
         font-family: 'Ciutadella Medium';
-
         font-style: normal;
-
         font-weight: 500;
-
         src: url('static/fonts/Ciutadella/Ciutadella-Medium.eot');
-
         src: local('Ciutadella Medium'), local('Ciutadella-Medium'),
-
             url('static/fonts/Ciutadella/Ciutadella-Medium.eot?#iefix') format('embedded-opentype'),
-
             url('static/fonts/Ciutadella/Ciutadella-Medium.woff2') format('woff2'),
-
             url('static/fonts/Ciutadella/Ciutadella-Medium.woff') format('woff'),
-
             url('static/fonts/Ciutadella/Ciutadella-Medium.ttf') format('truetype');
-
     }
-
-
-
 
 
     @font-face {
-
         font-family: 'Ciutadella SemiBold';
-
         font-style: normal;
-
         font-weight: 600;
-
         src: url('static/fonts/Ciutadella/Ciutadella-SemiBold.eot');
-
         src: local('Ciutadella SemiBold'), local('Ciutadella-SemiBold'),
-
             url('static/fonts/Ciutadella/Ciutadella-SemiBold.eot?#iefix') format('embedded-opentype'),
-
             url('static/fonts/Ciutadella/Ciutadella-SemiBold.woff2') format('woff2'),
-
             url('static/fonts/Ciutadella/Ciutadella-SemiBold.woff') format('woff'),
-
             url('static/fonts/Ciutadella/Ciutadella-SemiBold.ttf') format('truetype');
-
     }
-
-
 
     body {
-
         background: url('../static/img/background.svg') no-repeat center center fixed;
-
         background-size: 100% auto;
-
         -webkit-background-size: cover;
-
         -moz-background-size: cover;
-
         -o-background-size: cover;
-
         font-family: 'Roboto';
-
         font-size: 18px;
-
         width: 100%;
-
         word-break: break-word;
-
     }
-
-
 
     span.menu-text,
-
     span.navbar-title,
-
     .bi {
-
         font-family: 'Roboto';
-
         font-size: 25px;
-
     }
-
 </style>
-
 
 
 
@@ -389,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
 <p>Did you know that other animals are able to process and learn some properties of the human language? In our research group we are interested in taking a cross-species approach to understand the learning and processing of language. We use animal models like rats (<em>Rattus Norvegicus</em>) to test their ability to process syllables and words, two fundamental units of speech implemented as with auditory and vibrotactile stimuli.</p>
 <p>Stay tuned!</p>
 </div>
-<p><img src="..\static/img/animals.jpg" class="img-fluid"></p>
+<p><img src="../static/img/animals.jpg" class="img-fluid"></p>
 
 
 </section>
@@ -446,13 +353,14 @@ ul.task-list li input[type="checkbox"] {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
@@ -798,7 +706,7 @@ ul.task-list li input[type="checkbox"] {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><img src="..\static/img/erc.png" style="vertical-align: middle;" height="80"></p>
+<p><img src="../static/img/erc.png" style="vertical-align: middle;" height="80"></p>
 </div>   
     <div class="nav-footer-center">
 <p><i class="fa-solid fa-location-dot" aria-label="location-dot"></i> C. de Sta. Rosa, 39 | 08950 Barcelona</p>

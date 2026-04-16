@@ -78,6 +78,21 @@ As an aim to bridge clinical psychology and neuroscience, one of my research int
 
 <br>
 
+## Master students
+
+<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
+
+![](/static/img/idil.jpeg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+
+I am a MSc student in Brain and Cognition at Universitat Pompeu Fabra, with a strong interest in neurodevelopmental disorders, language processing, and atypical development. My research interests focus on understanding how early brain mechanisms supporting language and multisensory processing may differ in conditions such as autism spectrum disorder and speech or language impairments.
+
+I also completed a clinical practicum at Capa Neurology Hospital, where I was exposed to the assessment and observation of patients with neurological and neurodevelopmental conditions. This experience strengthened my interest in bridging clinical neuropsychology with developmental neuroscience.
+
+I am particularly interested in how early neural and sensory mechanisms support language acquisition, and how studying these processes in infancy can help bridge developmental neuroscience with clinical neuropsychology. I am especially interested in combining EEG with other neuroimaging techniques to investigate how infants and young children perceive, integrate, and learn from linguistic input.
+
+<br>
+
 ## Former members
 
 <h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
@@ -168,6 +183,20 @@ Com a objectiu de fer un pont entre la psicologia clínica i la neurociència, u
 
 <br>
 
+## Estudiants de màster
+
+<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
+
+![](/static/img/idil.jpeg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+Soc estudiant del màster en Cervell i Cognició a la Universitat Pompeu Fabra, amb un gran interès pels trastorns del desenvolupament neurològic, el processament del llenguatge i el desenvolupament atípic. La meva recerca se centra a comprendre com els mecanismes cerebrals primers que donen suport al llenguatge i al processament multisensorial poden diferir en condicions com el trastorn de l’espectre autista o els trastorns del llenguatge o la parla.
+
+A més, vaig realitzar un pràcticum clínic a l’Hospital de Neurologia Capa, on vaig tenir contacte amb l’avaluació i l’observació de pacients amb condicions neurològiques i del desenvolupament neurològic. Aquesta experiència va reforçar el meu interès per connectar la neuropsicologia clínica amb les neurociències del desenvolupament.
+
+Em interessa especialment com els mecanismes neuronals i sensorials primers donen suport a l’adquisició del llenguatge, i com l’estudi d’aquests processos en la infància pot ajudar a connectar les neurociències del desenvolupament amb la neuropsicologia clínica. Estic especialment interessat en combinar l’EEG amb altres tècniques de neuroimatge per investigar com els nadons i els nens petits perceben, integren i aprenen del llenguatge.
+
+<br>
+
 ## Han format part de l'equip
 
 <h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></h3>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
@@ -253,6 +282,21 @@ Soy estudiante de máster que trabaja como asistente de investigación para el p
 Antes de mis estudios de posgrado en Barcelona, me establecí en el Reino Unido donde obtuve mi BSc en Psicología en la Universidad de Bath. Allí trabajé como asistente de investigación en neurociencia del desarrollo en la Universidad de Cardiff, y como psicóloga adjunta al NHS.
 
 Con el objetivo de conectar la psicología clínica y la neurociencia, uno de mis intereses académicos consiste en investigar el desarrollo del lenguaje temprano, y también en ayudar a integrar el conocimiento de la neurociencia del desarrollo con las aplicaciones clínicas de la neuropsicología. En general, me gustaría contribuir a una mejor comprensión de los trastornos del desarrollo relacionados con el lenguaje o el desarrollo atípico.
+
+<br>
+
+## Estudiantes de master
+
+<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
+
+![](/static/img/idil.jpeg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
+Soy estudiante del Máster en Cerebro y Cognición en la Universitat Pompeu Fabra, con un gran interés por los trastornos del neurodesarrollo, el procesamiento del lenguaje y el desarrollo atípico. Mi investigación se centra en comprender cómo los mecanismos cerebrales tempranos que respaldan el lenguaje y el procesamiento multisensorial pueden diferir en condiciones como el trastorno del espectro autista o los trastornos del habla o el lenguaje.
+
+Además, realicé un prácticum clínico en el Hospital de Neurología Capa, donde estuve en contacto con la evaluación y observación de pacientes con condiciones neurológicas y del neurodesarrollo. Esta experiencia reforzó mi interés por conectar la neuropsicología clínica con las neurociencias del desarrollo.
+
+Me interesa especialmente cómo los mecanismos neuronales y sensoriales tempranos respaldan la adquisición del lenguaje, y cómo el estudio de estos procesos en la infancia puede ayudar a conectar las neurociencias del desarrollo con la neuropsicología clínica. Estoy especialmente interesado en combinar el EEG con otras técnicas de neuroimagen para investigar cómo los bebés y los niños pequeños perciben, integran y aprenden del lenguaje.
+
 
 <br>
 

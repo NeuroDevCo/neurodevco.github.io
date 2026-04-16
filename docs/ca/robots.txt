@@ -1,1 +1,0 @@
-Sitemap: https://neurodev.github.io/sitemap.xml
