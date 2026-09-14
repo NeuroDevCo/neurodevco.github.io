@@ -2,8 +2,6 @@
 image: /static/img/sant-joan-1.jpg
 ---
 
-::: {.content-visible when-profile="en"}
-
 # People
 
 ::: small-subtitle
@@ -19,6 +17,7 @@ Meet current and former members and collaborators of the NeuroDevCo research gro
 <h2>Dr. Chiara Santolin (Principal Investigator, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" ><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/chiara_santolin" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;</h2>
 
 ![](/static/img/chiara.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
 
 I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
 
@@ -45,8 +44,6 @@ In 2024 I obtained my PhD at the Center for Brain and Cognition, Universitat Pom
 <h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Floraachr" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
 ![](/static/img/flora.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-I am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition and processing of language by infants, using different techniques such as behavioral ones, eye-tracking and fNIRS.
 
 I am a PhD student at Universitat Pompeu Fabra in Barcelona, enrolled in the PhD Program in Biomedicine. I am interested in the early acquisition and processing of language by infants, using different techniques such as behavioral ones, eye-tracking and fNIRS.
 
@@ -104,212 +101,3 @@ I am a research assistant involved in the GALA project. I am currently finishing
 In parallel, I am working on my final degree project, which focuses on developing a multimodal system to study brain activity in 4 to 5-month-old infants by integrating Electroencephalography (EEG), functional near-infrared spectroscopy (fNIRS) and functional diffusion correlation spectroscopy (fDCS). The goal is to combine the high temporal resolution of EEG with the spatial one provided by the other two optical techniques. As part of this work, I am also developing a custom component to ensure good signal quality, especially in infants with dense or dark hair, improving the overall reliability of the system.
 
 I am very interested in the intersection between technology and neuroscience, and I am committed to continue contributing to research that improves our understanding of how infants perceive and learn from the world around them.
-
-:::
-
-::: {.content-visible when-profile="ca"}
-
-# L'equip
-
-::: small-subtitle
-
-Coneix els actuals i antics membres i col·laboradors/as del grup de recerca NeuroDevCo!
-
-:::
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
-
-<br>
-
-<h2>Chiara Santolin (Investigadora Principal, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
-</a>&nbsp;&nbsp;</h2>
-
-![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soc una científica cognitiva especialitzada en l'adquisició del llenguatge i la cognició comparativa. Treball com a Investigadora Principal en el Institut de Recerca Sant Joan de Déu. La meva recerca explora els mecanismes cognitius darrere de l'aprenentatge del llenguatge, en particular com els bebès detecten i categoritzen les estructures lingüístiques des d'una edat primerenca. També m'interessa la cognició comparativa, investigant si existeixen processos d'aprenentatge similars en espècies no humanes. A través del meu treball, pretenc comprendre les arrels evolutives del llenguatge i els principis fonamentals que guien l'aprenentatge en totes les espècies.
-
-Vaig obtenir el meu doctorat en Psicologia de la Universitat de Pàdua en 2016, després d'un mestratge en Psicologia Experimental i Ciències Cognitives de la mateixa institució en 2013. Després de completar el meu doctorat, vaig realitzar una recerca postdoctoral en el Centre Waisman de la Universitat de Wisconsin-Madison, centrant-me en l'aprenentatge del llenguatge infantil. En 2017, em vaig unir al Grup d'Adquisició i Percepció de la Parla de la Universitat Pompeu Fabra a Barcelona, ​​on vaig investigar l'adquisició d'estructures sintàctiques i sil·làbiques, els processos de categorització i les preferències de parla dels bebès.
-
-En 2024, vaig rebre una ERC Starting Grant per al meu projecte Gates to Language (GALA), que té com a objectiu explorar els patrons evolutius dels mecanismes involucrats en l'aprenentatge del llenguatge en humans i animals no humans. Actualment, continuo la meva recerca sobre l'aprenentatge estadístic, el desenvolupament del llenguatge infantil i la cognició animal.
-
-<br>
-
-## Post-doctoral researchers
-
-<h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
-</a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
-
-![](/static/img/gonzalo.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soc investigador postdoctoral i treball en la adquisició del llenguatge i en com les ments dels més petits li donen sentit al món. El meu treball es centra en la psicologia del desenvolupament i la psicolingüística, estudiant com els humans processen el llenguatge en diferents etapes del desenvolupament: des de nounats fins a infants, nens petits i adults. En el marc del projecte GALA, investigo com els nounats, els bebès i els animals no humans processen diferents estructures sil·làbiques, buscant mecanismes comuns que recolzin el processament del llenguatge. Per a això, faig servir una combinació de seguiment ocular, espectroscòpia funcional d'infraroig pròxim (fNIRS) i modelatge computacional, amb un enfocament especial en la reproducibilidad computacional. Les estadístiques bayesianes són una part important de com intento donar sentit a les dades que recull en els meus estudis.
-
-Em vaig graduar en Psicologia en la Universitat d'Oviedo en 2013 i vaig obtenir un màster en Neurociències a la Universitat de Barcelona en 2018. En 2024 vaig obtenir el meu doctorat en el Centre de Cervell i Cognició de la Universitat Pompeu Fabra, supervisat per la Prof. Núria Sebastian-Galles.
-
-<br>
-
-## PhD students
-
-<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a></h3>
-
-![](/static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soc estudiant de doctorat a la Universitat Pompeu Fabra de Barcelona, ​​matriculada en el Programa de Doctorat en Biomedicina. Estic interessada en la adquisició i processament primerenc del llenguatge* per part dels bebès, utilitzant diferents tècniques com les conductuals, eye-tracking i fNIRS.
-
-Vaig obtenir el meu MSc en Biologia Integrativa i Fisiologia---especialitzada en Neurociències del Comportament en La Sorbonne Université i vaig passar un any treballant com a enginyera de recerca en l'adquisició primerenca del llenguatge en el INCC---equip de Llenguatge i Cognició a París. Actualment estic involucrada en el projecte GALA que investiga com els bebès, amb tan sols uns mesos d'edat, perceben les síl·labes.
-
-<br>
-
-<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/laurapiracun" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
-
-![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soc estudiant de doctorat en el marc del projecte GALA (Gates to Language). Actualment estic treballant en la percepció i el processament del llenguatge en rates de Long-Evans, centrant-me en l'enfocament comparatiu de la percepció del llenguatge en espècies humanes i no humanes. En primer lloc, utilitzant el condicionament operant, comprovo com les rates, com a espècie no humana, processen el senyal acústic que representa les síl·labes. A més, utilitzant estímuls vibrotàtils, provaré les bases sensorials dels humans i els animals no humans per processar representacions no acústiques de síl·labes.
-
-Vaig obtenir el meu MSc en Lingüística Experimental i Clínica Internacional a la Universitat de Potsdam (Potsdam, Alemanya), i el meu BA en Psicologia al Bethany College (Kansas, EUA). M'interessa entendre els mecanismes i les estratègies subjacents al processament del senyal acústic i com aquesta capacitat s'ha especialitzat d'alguna manera als humans per poder comunicar-se amb un sistema lingüístic tan complex.
-
-<br>
-
-## Staff
-
-<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
-
-![](/static/img/chara.png){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soc estudiant de màster que treballa com a assistent de recerca per al projecte GALA, principalment contactant famílies i recollint dades amb nadons. Actualment estic matriculada al Màster en Cervell i Cognició de la Universitat Pompeu Fabra i també tinc un MSc en Psicologia Clínica i de la Salut de l'Instituto Superior de Estudios Psicológicos.
-
-Abans dels meus estudis de postgrau a Barcelona, em vaig establir al Regne Unit on vaig obtenir el meu BSc en Psicologia a la Universitat de Bath, i vaig treballar com a assistent de recerca en neurociència del desenvolupament a la Universitat de Cardiff i com a psicòleg adjunt al NHS.
-
-Com a objectiu de fer un pont entre la psicologia clínica i la neurociència, un dels meus interessos de recerca rau en com estudiar el desenvolupament del llenguatge primerenc pot ajudar a integrar el coneixement de la neurociència del desenvolupament amb les aplicacions clíniques de la neuropsicologia, i en última instància contribuir a una millor comprensió dels trastorns del desenvolupament relacionats amb el llenguatge o el desenvolupament atípic.
-
-<br>
-
-## Estudiants de màster
-
-<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
-
-![](/static/img/idil.jpeg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soc estudiant del màster en Cervell i Cognició a la Universitat Pompeu Fabra, amb un gran interès pels trastorns del desenvolupament neurològic, el processament del llenguatge i el desenvolupament atípic. La meva recerca se centra a comprendre com els mecanismes cerebrals primers que donen suport al llenguatge i al processament multisensorial poden diferir en condicions com el trastorn de l’espectre autista o els trastorns del llenguatge o la parla.
-
-A més, vaig realitzar un pràcticum clínic a l’Hospital de Neurologia Capa, on vaig tenir contacte amb l’avaluació i l’observació de pacients amb condicions neurològiques i del desenvolupament neurològic. Aquesta experiència va reforçar el meu interès per connectar la neuropsicologia clínica amb les neurociències del desenvolupament.
-
-Em interessa especialment com els mecanismes neuronals i sensorials primers donen suport a l’adquisició del llenguatge, i com l’estudi d’aquests processos en la infància pot ajudar a connectar les neurociències del desenvolupament amb la neuropsicologia clínica. Estic especialment interessat en combinar l’EEG amb altres tècniques de neuroimatge per investigar com els nadons i els nens petits perceben, integren i aprenen del llenguatge.
-
-<br>
-
-## Han format part de l'equip
-
-<h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></h3>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
-
-![](/static/img/silvia.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Sóc assistent de recerca en el projecte GALA. Actualment estic acabant el grau en Enginyeria Biomèdica a la Universitat Pompeu Fabra, on he desenvolupat un gran interès per la neurociència i el desenvolupament cognitiu. El meu rol, consisteix en donar suport a l'equip preparant l'estudi, recollint les dades i acompanyant les famílies al llarg dels estudis.
-
-Paral·lelament, estic treballant en el meu projecte de final de grau, que es centra en el desenvolupament d'un sistema multimodal per estudiar l'activitat cerebral en infants de 4 a 5 mesos, integrant electroencefalografia (EEG), espectroscòpia funcional propera a l'infraroig (fNIRS) i espectroscòpia funcional de correlació difusa (fDCS). L'objectiu és combinar la gran resolució temporal de l'EEG amb la resolució espacial que ofereixen les dues tènciques òptiques.
-
-Com a part d'aquest projecte, també estic desenvolupant una peça per garantir una bona qualitat del senyal, especialment en infants amb cabell dens o fosc, millorant així la fiabilitat general del sistema i la qualitat de les dades. Tinc interès en la intersecció entre la tecnologia i la neurociència, i estic compromesa a continuar contribuint a la recerca que ens ajuda a entendre com els infants perceben i aprenen del món que els envolta.
-
-:::
-
-::: {.content-visible when-profile="es"}
-
-# El equipo
-
-::: small-subtitle
-
-Conoce a los miembros actuales y anteriores colaboradores/as del grupo de investigación NeuroDevCo.
-
-:::
-
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
-
-<h2>Dr. Chiara Santolin (Investigadora Principal, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" class="shadow-sm"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i>
-</a>&nbsp;&nbsp;</h2>
-
-![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy una científica cognitiva especializada en la adquisición del lenguaje y la cognición comparativa. Trabajo como Investigadora Principal en el Institut de Recerca Sant Joan de Déu. Mi investigación explora los mecanismos cognitivos detrás del aprendizaje del lenguaje, en particular cómo los bebés detectan y categorizan las estructuras lingüísticas desde una edad temprana. También me interesa la cognición comparativa, investigando si existen procesos de aprendizaje similares en especies no humanas. A través de mi trabajo, pretendo comprender las raíces evolutivas del lenguaje y los principios fundamentales que guían el aprendizaje en todas las especies.
-
-Obtuve mi doctorado en Psicología de la Universidad de Padua en 2016, después de una maestría en Psicología Experimental y Ciencias Cognitivas de la misma institución en 2013. Después de completar mi doctorado, realicé una investigación posdoctoral en el Centro Waisman de la Universidad de Wisconsin-Madison, centrándome en el aprendizaje del lenguaje infantil. En 2017, me uní al Grupo de Adquisición y Percepción del Habla de la Universitat Pompeu Fabra en Barcelona, ​​donde investigué la adquisición de estructuras sintácticas y silábicas, los procesos de categorización y las preferencias de habla de los bebés.
-
-En 2024, recibí una ERC Starting Grant para mi proyecto Gates to Language (GALA), que tiene como objetivo explorar los patrones evolutivos de los mecanismos involucrados en el aprendizaje del lenguaje en humanos y animales no humanos. Actualmente, continúo mi investigación sobre el aprendizaje estadístico, el desarrollo del lenguaje infantil y la cognición animal.
-
-<br>
-
-## Post-doctoral researchers
-
-<h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i>
-</a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
-
-![](/static/img/gonzalo.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy investigador postdoctoral y trabajo en la adquisición del lenguaje y en cómo las mentes de los más pequeños dan sentido al mundo. Mi trabajo se centra en la psicología del desarrollo y la psicolingüística, estudiando cómo los humanos procesan el lenguaje en diferentes etapas del desarrollo: desde recién nacidos hasta infantes, niños pequeños y adultos. En el marco del proyecto GALA, investigo cómo los neonatos, los bebés y los animales no humanos procesan diferentes estructuras silábicas, buscando mecanismos comunes que respalden el procesamiento del lenguaje. Para ello, utilizo una combinación de seguimiento ocular, espectroscopia funcional de infrarrojo cercano (fNIRS) y modelado computacional, con un enfoque especial en la reproducibilidad computacional. La estadística bayesiana es una parte importante de cómo intento dar sentido a los datos que recojo durante mis estudios.
-
-Me gradué en Psicología en la Universidad de Oviedo en 2013 y obtuve un máster en Neurociencias en la Universitat de Barcelona en 2018. En 2024 obtuve mi doctorado en el Centro de Cerebro y Cognición de la Universitat Pompeu Fabra, supervisado por la profesora Núria Sebastian-Galles.
-
-<br>
-
-## PhD students
-
-<h3>Flora Chartier&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:flora.chartier@sjd.es" class="shadow-sm" target="_blank"><i class="fas fa-envelope text-dark"></i></a></h3>
-
-![](/static/img/flora.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy estudiante de doctorado en la Universitat Pompeu Fabra de Barcelona, ​​matriculada en el Programa de Doctorado en Biomedicina. Estoy interesada en la adquisición y procesamiento temprano del lenguaje por parte de los bebés, utilizando diferentes técnicas como las conductuales, eye-tracking y fNIRS.
-
-Obtuve mi máster en Biología Integrativa y Fisiología---especializada en Neurociencias del Comportamiento en La Sorbonne Université y pasé un año trabajando como ingeniera de investigación en la adquisición temprana del lenguaje en el INCC---equipo de Lenguaje y Cognición en París. Actualmente estoy involucrada en el proyecto GALA que investiga cómo los bebés, con tan solo unos meses de edad, perciben las sílabas.
-
-<br>
-
-<h3>Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirley.piracun@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/laurapiracun" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
-
-![](/static/img/laura.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy estudiante de doctorado en el marco del proyecto GALA (Gates tono Language). Actualmente estoy trabajando en la percepción y el procesamiento del lenguaje en ratas de Long-Evans, centrándome en el enfoque comparativo de la percepción del lenguaje en especies humanas y no humanas. En primer lugar, utilizando el acondicionamiento operante, compruebo como las ratas, como especie no humana, procesan la señal acústica que representa las sílabas. Además, utilizando estímulos vibrotàtils, probaré las bases sensoriales de los humanos y los animales no humanos para procesar representaciones no acústicas de sílabas.
-
-Obtuve mi MSc en Lingüística Experimental y Clínica Internacional en la Universidad de Potsdam (Potsdam, Alemania), y mi BA en Psicología al Bethany College (Kansas, EE. UU.). Me interesa entender los mecanismos y las estrategias subyacentes al procesamiento de la señal acústica y como esta capacidad se ha especializado de alguna manera a los humanos para poder comunicarse con un sistema lingüístico tan complejo.
-
-<br>
-
-## Staff
-
-<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
-
-![](/static/img/chara.png){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy estudiante de máster que trabaja como asistente de investigación para el proyecto GALA, principalmente ayudante en la contratación de familias y la recogida de datos con bebés.  Actualmente estoy matriculada al Máster en Cerebro y Cognición de la Universitat Pompeu Fabra y también tengo un máster en Psicología Clínica y de la Salud del Instituto Superior de Estudios Psicológicos.
-
-Antes de mis estudios de posgrado en Barcelona, me establecí en el Reino Unido donde obtuve mi BSc en Psicología en la Universidad de Bath. Allí trabajé como asistente de investigación en neurociencia del desarrollo en la Universidad de Cardiff, y como psicóloga adjunta al NHS.
-
-Con el objetivo de conectar la psicología clínica y la neurociencia, uno de mis intereses académicos consiste en investigar el desarrollo del lenguaje temprano, y también en ayudar a integrar el conocimiento de la neurociencia del desarrollo con las aplicaciones clínicas de la neuropsicología. En general, me gustaría contribuir a una mejor comprensión de los trastornos del desarrollo relacionados con el lenguaje o el desarrollo atípico.
-
-<br>
-
-## Estudiantes de master
-
-<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
-
-![](/static/img/idil.jpeg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy estudiante del Máster en Cerebro y Cognición en la Universitat Pompeu Fabra, con un gran interés por los trastornos del neurodesarrollo, el procesamiento del lenguaje y el desarrollo atípico. Mi investigación se centra en comprender cómo los mecanismos cerebrales tempranos que respaldan el lenguaje y el procesamiento multisensorial pueden diferir en condiciones como el trastorno del espectro autista o los trastornos del habla o el lenguaje.
-
-Además, realicé un prácticum clínico en el Hospital de Neurología Capa, donde estuve en contacto con la evaluación y observación de pacientes con condiciones neurológicas y del neurodesarrollo. Esta experiencia reforzó mi interés por conectar la neuropsicología clínica con las neurociencias del desarrollo.
-
-Me interesa especialmente cómo los mecanismos neuronales y sensoriales tempranos respaldan la adquisición del lenguaje, y cómo el estudio de estos procesos en la infancia puede ayudar a conectar las neurociencias del desarrollo con la neuropsicología clínica. Estoy especialmente interesado en combinar el EEG con otras técnicas de neuroimagen para investigar cómo los bebés y los niños pequeños perciben, integran y aprenden del lenguaje.
-
-
-<br>
-
-## Han formado parte del equipo
-
-<h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
-
-![](/static/img/silvia.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-Soy asistente de investigación en el proyecto GALA. Actualmente estoy finalizando el grado en Ingeniería Biomédica en la Universitat Pompeu Fabra, donde he desarrollado un gran interés por la neurociencia y el desarrollo cognitivo. Como parte de mi rol, doy soporte al equipo preparando el estudio, recogiendo los datos y acompañando a las familias y a sus infantes durante los estudios.
-
-Paralelamente, estoy acabando mi trabajo de fin de grado, que se centra en el desarrollo de un sistema multimodal para estudiar la actividad cerebral en infantes de 4 a 5 meses, integrando electroencefalograía (EEG), espectroscopia funcional en el infrarrojo cercano (fNIRS) y espectroscopia funcional de correlación difusa (fDCS). El objetivo es combinar la alta resolución temporal del EEG con la resolución espacial que aportan las dos técnicas ópticas.
-
-Como parte de este proyecto, también estoy desarrollando una pieza para garantizar una buena calidad de señal, especialmente en infantes con cabello denso u oscuro, mejorando así la fiabilidad del sistema y la calidad de los datos. Me interesa la intersección entre la tecnología y la neurociencia, y estoy comprometida a seguir contribuyendo a la investigación que mejora nuestra comprensión sobre cómo los bebés perciben y aprenden del mundo que les rodea.
-
-:::
