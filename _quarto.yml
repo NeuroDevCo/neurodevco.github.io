@@ -18,7 +18,7 @@ website:
   title: "GALA"
   favicon: /static/img/favicon.ico
   site-url: https://neurodev.github.io
-  repo-url: https://github.com/NeuroDev/neurodevco.github.io
+  repo-url: https://github.com/NeuroDevCo/neurodevco.github.io
   page-footer:
     left: "![](/static/img/erc.png){height='80px' style='vertical-align: middle;'}"
     right:

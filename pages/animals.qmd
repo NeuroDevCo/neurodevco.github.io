@@ -2,7 +2,6 @@
 image: /static/img/animals.jpg
 ---
 
-::: {.content-visible when-profile="en"}
 
 # Animal research
 
@@ -21,4 +20,3 @@ Stay tuned!
 
 ::::
 
-:::
