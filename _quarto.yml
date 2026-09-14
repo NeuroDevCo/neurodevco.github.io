@@ -9,18 +9,13 @@ project:
     - index.qmd
     - pages/*.qmd
 
-profile:
-  default: en
-  group: [en, ca, es]
-
-
 website:
   navbar:
     search: true
   twitter-card: true
   open-graph: true
   repo-actions: [edit, issue]
-  title: "NeuroDevCo"
+  title: "GALA"
   favicon: /static/img/favicon.ico
   site-url: https://neurodev.github.io
   repo-url: https://github.com/NeuroDev/neurodevco.github.io
