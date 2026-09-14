@@ -6,6 +6,8 @@ image: /static/img/sant-joan-1.jpg
 
 ::: small-subtitle
 
+ALYSSA!!
+
 Meet current and former members and collaborators of the NeuroDevCo research group!
 
 :::
