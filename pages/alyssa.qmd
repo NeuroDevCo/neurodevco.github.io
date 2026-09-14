@@ -1,0 +1,24 @@
+---
+image: /static/img/animals.jpg
+---
+
+::: {.content-visible when-profile="en"}
+
+# Animal research
+
+::: small-subtitle
+
+Investigating the roots of language in other animal species.
+
+:::
+
+:::: textbox
+
+Did you know that other animals are able to process and learn some properties of the human language?
+In our research group we are interested in taking a cross-species approach to understand the learning and processing of language. We use animal models like rats (*Rattus Norvegicus*) to test their ability to process syllables and words, two fundamental units of speech implemented as with auditory and vibrotactile stimuli.
+
+Stay tuned!
+
+::::
+
+:::
