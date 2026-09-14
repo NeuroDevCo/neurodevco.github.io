@@ -42,11 +42,39 @@
     "text": "I am a research assistant involved in the GALA project. I am currently finishing my degree in Biomedical Engineering at Universitat Pompeu Fabra, where I have developed a strong interest in neuroscience and cognitive development. As part of my role, I support the team by preparing the experimental setup, collecting the data and accompanying families and their infants throughout the studies.\nIn parallel, I am working on my final degree project, which focuses on developing a multimodal system to study brain activity in 4 to 5-month-old infants by integrating Electroencephalography (EEG), functional near-infrared spectroscopy (fNIRS) and functional diffusion correlation spectroscopy (fDCS). The goal is to combine the high temporal resolution of EEG with the spatial one provided by the other two optical techniques. As part of this work, I am also developing a custom component to ensure good signal quality, especially in infants with dense or dark hair, improving the overall reliability of the system.\nI am very interested in the intersection between technology and neuroscience, and I am committed to continue contributing to research that improves our understanding of how infants perceive and learn from the world around them."
   },
   {
+    "objectID": "pages/babies.html",
+    "href": "pages/babies.html",
+    "title": "What kind of studies do we do?",
+    "section": "",
+    "text": "Find out more about our studies with newborns and infants!\n\n\n\n\nLanguage is a very complex and structured communicative system yet most humans find it surprisingly easy to acquire language. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevComp group, which we address by studying newborns a few hours after birth.\nWe use a technique called fNIRS (functional Near-Infrared Spectroscopy) that allows to measure newborns’ spontaneous neural activity when listening to auditory inputs (e.g., continuous speech, individual syllables and words). We are currently conducting these studies at the Sant Joan de Deu Barcelona Children Hospital.\n\n\n\n\n\n\nWe are interested in learning how infants between 4 and 11 months old detect and process different speech features. It is known that young infants learn the rules and structures of their native language(s) very quickly and effortlessly.\nSpecifically, we are interested in learning how infants segment speech into small units, such as syllables. To address this question, we use several techniques:\n\nBehavioral: We measure the time infants look at a computer screen while listening to different types of speech sounds.\nEye-tracker: We track infants’ gaze movements on the screen with great precision and also measure their pupil dilation when they hear speech sounds.\nfNIRS (functional near-infrared spectroscopy): We are interested in observing the activation of different brain areas when infants hear speech sounds."
+  },
+  {
+    "objectID": "pages/babies.html#newborns",
+    "href": "pages/babies.html#newborns",
+    "title": "What kind of studies do we do?",
+    "section": "",
+    "text": "Language is a very complex and structured communicative system yet most humans find it surprisingly easy to acquire language. What mechanisms support this readiness for language learning early in life? This is one of the main research questions at the NeuroDevComp group, which we address by studying newborns a few hours after birth.\nWe use a technique called fNIRS (functional Near-Infrared Spectroscopy) that allows to measure newborns’ spontaneous neural activity when listening to auditory inputs (e.g., continuous speech, individual syllables and words). We are currently conducting these studies at the Sant Joan de Deu Barcelona Children Hospital."
+  },
+  {
+    "objectID": "pages/babies.html#infants",
+    "href": "pages/babies.html#infants",
+    "title": "What kind of studies do we do?",
+    "section": "",
+    "text": "We are interested in learning how infants between 4 and 11 months old detect and process different speech features. It is known that young infants learn the rules and structures of their native language(s) very quickly and effortlessly.\nSpecifically, we are interested in learning how infants segment speech into small units, such as syllables. To address this question, we use several techniques:\n\nBehavioral: We measure the time infants look at a computer screen while listening to different types of speech sounds.\nEye-tracker: We track infants’ gaze movements on the screen with great precision and also measure their pupil dilation when they hear speech sounds.\nfNIRS (functional near-infrared spectroscopy): We are interested in observing the activation of different brain areas when infants hear speech sounds."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "NeuroDevCo",
     "section": "",
     "text": "People\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nContact\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat kind of studies do we do?\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pages/animals.html",
+    "href": "pages/animals.html",
+    "title": "Animal research",
+    "section": "",
+    "text": "Animal research\n\nInvestigating the roots of language in other animal species.\n\n\nDid you know that other animals are able to process and learn some properties of the human language? In our research group we are interested in taking a cross-species approach to understand the learning and processing of language. We use animal models like rats (Rattus Norvegicus) to test their ability to process syllables and words, two fundamental units of speech implemented as with auditory and vibrotactile stimuli.\nStay tuned!"
   },
   {
     "objectID": "pages/contact.html",
