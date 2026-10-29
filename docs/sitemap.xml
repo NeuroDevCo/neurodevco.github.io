@@ -1,23 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://neurodev.github.io/pages/people.html</loc>
-    <lastmod>2026-09-14T12:46:58.921Z</lastmod>
+    <loc>https://neurodev.github.io/pages/research.html</loc>
+    <lastmod>2026-10-29T11:14:41.123Z</lastmod>
   </url>
   <url>
-    <loc>https://neurodev.github.io/pages/babies.html</loc>
-    <lastmod>2026-08-20T10:25:55.665Z</lastmod>
+    <loc>https://neurodev.github.io/pages/people.html</loc>
+    <lastmod>2026-10-13T12:51:27.969Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neurodev.github.io/pages/media.html</loc>
+    <lastmod>2026-09-25T13:01:43.151Z</lastmod>
   </url>
   <url>
     <loc>https://neurodev.github.io/index.html</loc>
-    <lastmod>2026-09-14T12:45:44.870Z</lastmod>
-  </url>
-  <url>
-    <loc>https://neurodev.github.io/pages/animals.html</loc>
-    <lastmod>2026-09-14T12:33:25.484Z</lastmod>
+    <lastmod>2026-10-13T13:12:49.274Z</lastmod>
   </url>
   <url>
     <loc>https://neurodev.github.io/pages/contact.html</loc>
-    <lastmod>2026-09-14T12:33:53.908Z</lastmod>
+    <lastmod>2026-10-29T11:19:54.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neurodev.github.io/pages/ongoing.html</loc>
+    <lastmod>2026-09-25T13:30:50.476Z</lastmod>
+  </url>
+  <url>
+    <loc>https://neurodev.github.io/pages/publications.html</loc>
+    <lastmod>2026-10-01T08:55:40.126Z</lastmod>
   </url>
 </urlset>

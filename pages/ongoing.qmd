@@ -1,0 +1,9 @@
+---
+image: /static/img/ndc-banner.png
+---
+
+# Ongoing Projects
+
+::: small-subtitle
+What projects are we conducting right now? 
+:::
