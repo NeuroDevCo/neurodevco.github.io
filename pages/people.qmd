@@ -19,6 +19,7 @@ Meet current and former members and collaborators of the NeuroDevCo research gro
 ![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
 
+
 I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
 
 I earned my PhD in Psychology from the University of Padova (Italy) in 2016, with a specialization in animal cognition. After completing my doctorate studies, I did a post-doctoral training at the University of Wisconsin–Madison (USA) focusing on infant language learning. I then joined the Center for Brain and Cognition at Universitat Pompeu Fabra (Barcelona, Spain) as post-doctoral fellow where I mainly worked on the acquisition of syntax and syllabic structures, categorization processes and preferences for speech in infants, and learning of linguistic constraints in rats.
@@ -93,10 +94,7 @@ Language acquisition has always been a central interest of mine. Through this wo
 
 <h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
 
-
 <h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chara-sofocleous-b79848162/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
-
-
 
 <h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
 
