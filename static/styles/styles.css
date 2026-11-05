@@ -257,3 +257,7 @@ a.nav-footer {
     background-color: white;
     border-color: white;
 }
+
+.small {
+    font-size: xx-small;
+}

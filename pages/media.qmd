@@ -1,0 +1,29 @@
+---
+image: /static/img/Flora-poster.png
+---
+# Media
+
+::: small-subtitle
+
+Take a look at what our lab has been up to!
+:::
+
+:::: textbox
+A look behind the scenes at NeuroDevCo—from research and conferences to collaborations and everyday life in the lab.
+
+::::
+
+![](/static/img/Flora-poster.png){style="width: 700px; height: 450px; object-fit: cover; object-position: center 65%; display: block; margin: 20px auto;"}
+
+![](/static/img/Group1.png){style="width: 700px; height: 450px; object-fit: cover; object-position: center 65%; display: block; margin: 20px auto;"}
+
+![](/static/img/Gonz-Laura_Bud.JPG){style="width: 700px; height: 450px; object-fit: cover; object-position: center 65%; display: block; margin: 20px auto;"}
+
+![](/static/img/Flora-Laura.JPG){style="width: 700px; height: 450px; object-fit: cover; object-position: center 65%; display: block; margin: 20px auto;"}
+
+![](/static/img/Flo-Gon_Lau_bud.JPG){style="width: 700px; height: 450px; object-fit: cover; object-position: center 65%; display: block; margin: 20px auto;"}
+
+![](/static/img/Flor-Gon-poster.JPG){style="width: 700px; height: 450px; object-fit: cover; object-position: center 65%; display: block; margin: 20px auto;"}
+
+![](/static/img/Flora-baby.png){style="width: 500px; height: 650px; object-fit: cover; object-position: center 45%; display: block; margin: 20px auto;"}
+<br>

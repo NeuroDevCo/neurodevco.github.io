@@ -3,8 +3,10 @@
     "listing": "/index.html",
     "items": [
       "/pages/people.html",
-      "/pages/contact.html",
-      "/pages/babies.html"
+      "/pages/research.html",
+      "/pages/media.html",
+      "/pages/publications.html",
+      "/pages/contact.html"
     ]
   }
 ]

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.37">
+<meta name="generator" content="quarto-1.10.18">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -12,10 +12,13 @@
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
 */
-code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-div.columns{display: flex; gap: min(4vw, 1.5em);}
-div.column{flex: auto; overflow-x: auto;}
+div.columns{display: flex; gap: 1.5em;}
+div.column{flex: auto;}
+@media screen {
+div.columns{gap: min(4vw, 1.5em);}
+div.column{overflow-x: auto;}
+}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-64a204ab8560d761af7679ceaba22944.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-ad1366f87b31c41a01329b2e977a54b6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-a131225a7aae997e00dce7578d85228f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="../site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -95,11 +98,15 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../static/styles/styles.css">
 <meta property="og:title" content="GALA">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://neurodev.github.io/static/img/sant-joan-1.jpg">
+<meta property="og:image" content="https://neurodev.github.io/static/img/Gr-close.png">
 <meta property="og:site_name" content="GALA">
+<meta property="og:image:height" content="888">
+<meta property="og:image:width" content="1612">
 <meta name="twitter:title" content="GALA">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://neurodev.github.io/static/img/sant-joan-1.jpg">
+<meta name="twitter:image" content="https://neurodev.github.io/static/img/Gr-close.png">
+<meta name="twitter:image-height" content="888">
+<meta name="twitter:image-width" content="1612">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -114,9 +121,40 @@ ul.task-list li input[type="checkbox"] {
     <span class="navbar-title">GALA</span>
     </a>
   </div>
-        <div class="quarto-navbar-tools tools-end">
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link active" href="../pages/people.html" aria-current="page"> 
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/media.html"> 
+<span class="menu-text">Media</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/publications.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../pages/contact.html"> 
+<span class="menu-text">Contact</span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
 </div>
-          <div id="quarto-search" class="" title="Search"></div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -133,8 +171,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#post-doctoral-researchers" id="toc-post-doctoral-researchers" class="nav-link" data-scroll-target="#post-doctoral-researchers">Post-doctoral researchers</a></li>
   <li><a href="#phd-students" id="toc-phd-students" class="nav-link" data-scroll-target="#phd-students">PhD students</a></li>
-  <li><a href="#staff" id="toc-staff" class="nav-link" data-scroll-target="#staff">Staff</a></li>
-  <li><a href="#master-students" id="toc-master-students" class="nav-link" data-scroll-target="#master-students">Master students</a></li>
+  <li><a href="#project-coordinator" id="toc-project-coordinator" class="nav-link" data-scroll-target="#project-coordinator">Project Coordinator</a></li>
   <li><a href="#former-members" id="toc-former-members" class="nav-link" data-scroll-target="#former-members">Former members</a></li>
   </ul></li>
   </ul>
@@ -247,12 +284,12 @@ ul.task-list li input[type="checkbox"] {
 <div class="small-subtitle">
 <p>Meet current and former members and collaborators of the NeuroDevCo research group!</p>
 </div>
-<p><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"></p>
+<p><img src="../static/img/Group2.png" class="img-fluid"> <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"></p>
 <p><br></p>
 <h2 class="anchored" data-anchor-id="people">
-Dr.&nbsp;Chiara Santolin (Principal Investigator, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/chiara_santolin" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;
+Dr.&nbsp;Chiara Santolin (Principal Investigator &amp; Group Leader)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/chiara_santolin" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;
 </h2>
-<p><img src="../static/img/chiara.jpg" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="200"></p>
+<p><img src="../static/img/chiara.jpg" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="300"></p>
 <p>I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.</p>
 <p>I earned my PhD in Psychology from the University of Padova (Italy) in 2016, with a specialization in animal cognition. After completing my doctorate studies, I did a post-doctoral training at the University of Wisconsin–Madison (USA) focusing on infant language learning. I then joined the Center for Brain and Cognition at Universitat Pompeu Fabra (Barcelona, Spain) as post-doctoral fellow where I mainly worked on the acquisition of syntax and syllabic structures, categorization processes and preferences for speech in infants, and learning of linguistic constraints in rats.</p>
 <p>In 2024, I was awarded an ERC Starting Grant (European Union) for my project Gates to Language (GALA), which aims at investigating the origins of neural and cognitive mechanisms at the onset of language learning, testing humans at different developmental stages (0 to 10 month old), rats as animal model, and different sensory inputs (linguistic, auditory non-linguistic, and vibro-tactile).</p>
@@ -265,6 +302,13 @@ Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garc
 <p><img src="../static/img/gonzalo.jpg" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="200"></p>
 <p>I am a post-doctoral researcher investigating language acquisition and how young minds make sense of the world. My work focuses on developmental psychology and psycholinguistics, studying how humans process language at different stages in development: from newborns to infants, toddlers, and adults. Under the GALA project, I investigate how neonates, infants, and non-human animals process different syllabic structures, searching for common mechanisms supporting language processing. To do this, I use a combination of eye-tracking, functional near-infrared spectroscopy (fNIRS), and computational modelling. with a special focus on computational reproducibility. Bayesian statistics are a big part of how I try to make sense of data.</p>
 <p>In 2024 I obtained my PhD at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof.&nbsp;Núria Sebastian-Galles. I earned my BSc in Psychology from the Universidad de Oviedo in 2013, and my MSc in Neurosciences at the Universitat de Barcelona in 2018.</p>
+<p><br></p>
+<h3 class="anchored">
+Anna Martinez Álvarez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:anna.martineza@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>
+</h3>
+<p><img src="../static/img/Anna.png" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="200"> I am a postdoctoral associate researcher investigating early language acquisition from a developmental cognitive neuroscience perspective. My research focuses on newborns and young infants, examining how the developing brain processes speech and how attention and memory processes support language acquisition. To address these questions, I combine behavioral measures, eye-tracking, and functional near-infrared spectroscopy (fNIRS) to study the cognitive and neural processes underlying early language development.</p>
+<p>I earned my PhD in Brain, Cognition and Behavior from the University of Barcelona in 2018, under the supervision of Prof.&nbsp;Ruth de Diego-Balaguer and Prof.&nbsp;Ferran Pons. As part of the ERC Starting Grant TuningLang, I investigated the development of temporal orienting of attention and its role in language rule learning across infancy, childhood, and adulthood. After my doctoral studies, I joined the Integrative Neuroscience and Cognition Center (INCC) at Université Paris Cité, France, as a postdoctoral fellow within the ERC Consolidator Grant BabyRhythm, working with Prof.&nbsp;Judit Gervain. In 2020, I joined the Department of Developmental Psychology and Socialization at the University of Padova, Italy. During my postdoctoral research, I focused on the neural mechanisms involved in neonatal speech processing and infant language learning.</p>
+<p>After a four-year career break from academia (2022–2026), during which I worked as a teacher and was on maternity leave, I recently resumed my academic career by joining the ERC Starting Grant GALA, led by Dr.&nbsp;Chiara Santolin in the Research Institute Sant Joan de Déu in Barcelona, where I investigate speech segmentation in newborns using fNIRS.</p>
 <p><br></p>
 </section>
 <section id="phd-students" class="level2">
@@ -284,37 +328,28 @@ Laura S. Piracún-García&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:laurasirl
 <p>I obtained my MSc in International Experimental and Clinical Linguistics at the University of Potsdam (Potsdam, Germany), and my BA in Psychology at Bethany College (Kansas, USA). I am interested in understanding the mechanisms and strategies underlying the processing of the acoustic signal and how this ability has somehow been specialized to humans to be able to communicate with such a complex linguistic system.</p>
 <p><br></p>
 </section>
-<section id="staff" class="level2">
-<h2 class="anchored" data-anchor-id="staff">Staff</h2>
+<section id="project-coordinator" class="level2">
+<h2 class="anchored" data-anchor-id="project-coordinator">Project Coordinator</h2>
 <h3 class="anchored">
-Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a>
+Alyssa Álvarez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alyssa.alvarez@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alyssa-alvarez-8a0a20271" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Aalva20" target="_blank"><i class="fab fa-github text-dark"></i></a>
 </h3>
-<p><img src="../static/img/chara.png" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="200"></p>
-<p>I am a MSc student working as a research assistant for the GALA project, mainly assisting with recruitment of families and data collection with newborns. I am currently enrolled in the MSc in Brain and Cognition at the Universitat Pompeu Fabra and also hold a masters in Clinical and Health Psychology from the Instituto Superior de Estudios Psicológicos.</p>
-<p>Before my postgraduate studies in Barcelona, I was based in the United Kingdom where I obtained my BSc in Psychology at the University of Bath, and worked as a research assistant in developmental neuroscience at Cardiff University and as an assistant psychologist in the NHS.</p>
-<p>As an aim to bridge clinical psychology and neuroscience, one of my research interests lies in how studying early language development can help to integrate knowledge from developmental neuroscience with clinical applications of neuropsychology, and ultimately contribute to a better understanding of language-related developmental disorders or atypical development.</p>
-<p><br></p>
-</section>
-<section id="master-students" class="level2">
-<h2 class="anchored" data-anchor-id="master-students">Master students</h2>
-<h3 class="anchored">
-Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
-</h3>
-<p><img src="../static/img/idil.jpeg" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="300"></p>
-<p>I am a MSc student in Brain and Cognition at Universitat Pompeu Fabra, with a strong interest in neurodevelopmental disorders, language processing, and atypical development. My research interests focus on understanding how early brain mechanisms supporting language and multisensory processing may differ in conditions such as autism spectrum disorder and speech or language impairments.</p>
-<p>I also completed a clinical practicum at Capa Neurology Hospital, where I was exposed to the assessment and observation of patients with neurological and neurodevelopmental conditions. This experience strengthened my interest in bridging clinical neuropsychology with developmental neuroscience.</p>
-<p>I am particularly interested in how early neural and sensory mechanisms support language acquisition, and how studying these processes in infancy can help bridge developmental neuroscience with clinical neuropsychology. I am especially interested in combining EEG with other neuroimaging techniques to investigate how infants and young children perceive, integrate, and learn from linguistic input.</p>
+
+<p><img src="../static/img/alyssa.png" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="200"></p>
+<p>I am the Project Coordinator for the GALA project, where my role primarily involves assisting with the recruitment of participants, both adults and infants, and managing their visits to the lab. In the lab, I use a combination of eye-tracking and head-turn preference paradigms to explore early language acquisition and cognitive development.</p>
+<p>I obtained my MSc in Brain and Cognition from Pompeu Fabra University (Barcelona, Spain). Prior to that, I earned a Bachelor’s degree in Neuroscience and Behavioral Biology from Emory University (Atlanta, USA). Language acquisition has always been a central interest of mine. Through this work, I aim to contribute to uncovering the mechanisms that shape how we learn and process language</p>
 <p><br></p>
 </section>
 <section id="former-members" class="level2">
 <h2 class="anchored" data-anchor-id="former-members">Former members</h2>
 <h3 class="anchored">
-Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
+Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
 </h3>
-<p><img src="../static/img/silvia.jpg" class="img-fluid" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;" width="200"></p>
-<p>I am a research assistant involved in the GALA project. I am currently finishing my degree in Biomedical Engineering at Universitat Pompeu Fabra, where I have developed a strong interest in neuroscience and cognitive development. As part of my role, I support the team by preparing the experimental setup, collecting the data and accompanying families and their infants throughout the studies.</p>
-<p>In parallel, I am working on my final degree project, which focuses on developing a multimodal system to study brain activity in 4 to 5-month-old infants by integrating Electroencephalography (EEG), functional near-infrared spectroscopy (fNIRS) and functional diffusion correlation spectroscopy (fDCS). The goal is to combine the high temporal resolution of EEG with the spatial one provided by the other two optical techniques. As part of this work, I am also developing a custom component to ensure good signal quality, especially in infants with dense or dark hair, improving the overall reliability of the system.</p>
-<p>I am very interested in the intersection between technology and neuroscience, and I am committed to continue contributing to research that improves our understanding of how infants perceive and learn from the world around them.</p>
+<h3 class="anchored">
+Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chara-sofocleous-b79848162/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
+</h3>
+<h3 class="anchored">
+Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>
+</h3>
 
 
 </section>
@@ -725,7 +760,7 @@ Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<p><img src="../static/img/erc.png" style="vertical-align: middle;" height="80"></p>
+<p><img src="../static/img/erc.png" style="vertical-align: middle;" height="80"> <br> <img src="../static/img/LOGO-ERC.png" style="vertical-align: middle;" height="80"></p>
 </div>   
     <div class="nav-footer-center">
 <p><i class="fa-solid fa-location-dot" aria-label="location-dot"></i> C. de Sta. Rosa, 39 | 08950 Barcelona</p>
@@ -744,6 +779,9 @@ document.write('<a h'+'ref'+'="ma'+'ilto'+':'+e+'" clas'+'s="em' + 'ail">'+e+'<\
       <i class="bi bi-github" role="img">
 </i> 
     </a>
+  </li>  
+    <li class="nav-item">
+ <p class="small">Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency (ERCEA). Neither the European Union nor the granting authority can be held responsible for them. This work is supported by the ERC StG 101115991 (GALA) awarded to Chiara Santolin</p>
   </li>  
 </ul>
     </div>

@@ -1,0 +1,23 @@
+---
+image: /static/img/Flor-Gon-poster.JPG
+---
+# Publications
+
+::: small-subtitle
+
+Here is our published work. 
+
+:::
+
+:::: textbox
+## Posters 
+García-Castro G., Piracún-García L., Gervain J., Alarcón Allen A., & Santolin, C. Detecting syllables at birth: an fNIRs study about the role of the Maximal Onset Principle. Budapest CEU Conference on Cognitive Development. Budapest, Hungary, January 2026.
+
+Chartier F., Garcia-Castro G., Piracun-Garcia L., Sebastian-Galles N. & Santolin C. Language universals in syllable processing in infancy. Budapest CEU Conference on Cognitive Development. Budapest, Hungary, January 2026. 
+
+Garcia-Castro G., Alarcon-Allen A. & Santolin C. Maximal Onset Principle: a mechanism for detecting syllables in newborns? Workshop for Infant Language Development (WILD). San Sebastian, Spain, June 2025. 
+
+Chartier F., Garcia-Castro G., Piracún-García L., Sebastian-Galles N. &  Santolin C. Infants’ sensitivity to the Maximal Onset Principle for decoding syllabic units. Workshop for Infant Language Development (WILD). San Sebastian, Spain, June 2025.
+
+Chartier F., Garcia-Castro G. & Santolin C. Infant’s sensitivity to the Sonority Sequencing Principle. Eyetracking Workshop for Developmental Scientist. London, UK, April 2025.
+::::

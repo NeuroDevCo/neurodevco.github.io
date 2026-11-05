@@ -1,5 +1,5 @@
 ---
-image: /static/img/sant-joan-1.jpg
+image: /static/img/Gr-close.png
 ---
 
 # People
@@ -9,14 +9,15 @@ image: /static/img/sant-joan-1.jpg
 Meet current and former members and collaborators of the NeuroDevCo research group!
 
 :::
-
+![](/static/img/Group2.png)
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer"/>
 
 <br>
 
-<h2>Dr. Chiara Santolin (Principal Investigator, R4)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" ><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/chiara_santolin" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;</h2>
+<h2>Dr. Chiara Santolin (Principal Investigator & Group Leader)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chiara.santolin@sjd.es" ><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=j-liw-wAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/chiara_santolin" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8361-5574" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;</h2>
 
-![](/static/img/chiara.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+![](/static/img/chiara.jpg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+
 
 
 I am a cognitive scientist specializing in language acquisition and comparative cognition. I serve as a Principal Investigator at the Institut de Recerca Sant Joan de Déu and I lead the NeuroDevCo group. My research explores the types of cognitive mechanisms serving the early stages of language learning in humans. To tackle this problem, I take a comparative perspective, investigating how newborns and infants as well as other animals detect linguistic structures from the speech signal.
@@ -29,6 +30,7 @@ In 2024, I was awarded an ERC Starting Grant (European Union) for my project Gat
 
 ## Post-doctoral researchers
 
+
 <h3>Gonzalo García-Castro&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:gonzalo.garcia@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=fHetiuQAAAAJ" target="_blank"><i class="fas fa-graduation-cap text-dark"></i></a>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8553-4209" target="_blank"><i class="fa-brands fa-orcid text-dark"></i></a>&nbsp;&nbsp;<a href="https://twitter.com/gongcastro" target="_blank"><i class="fab fa-twitter text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gongcastro/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://bsky.app/profile/gongcastro.bsky.social" target="_blank"><i class="fa-brands fa-bluesky text-dark"></i></a>&nbsp;&nbsp;<a href="https://hub.docker.com/u/gongcastro" target="_blank"><i class="fa-brands fa-docker text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/gongcastro" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
 ![](/static/img/gonzalo.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
@@ -38,6 +40,17 @@ I am a post-doctoral researcher investigating language acquisition and how young
 In 2024 I obtained my PhD at the Center for Brain and Cognition, Universitat Pompeu Fabra, supervised by Prof. Núria Sebastian-Galles. I earned my BSc in Psychology from the Universidad de Oviedo in 2013, and my MSc in Neurosciences at the Universitat de Barcelona in 2018.
 
 <br>
+
+<h3>Anna Martinez Álvarez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:anna.martineza@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a></h3>
+![](/static/img/Anna.png){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+I am a postdoctoral associate researcher investigating early language acquisition from a developmental cognitive neuroscience perspective. My research focuses on newborns and young infants, examining how the developing brain processes speech and how attention and memory processes support language acquisition. To address these questions, I combine behavioral measures, eye-tracking, and functional near-infrared spectroscopy (fNIRS) to study the cognitive and neural processes underlying early language development. 
+
+I earned my PhD in Brain, Cognition and Behavior from the University of Barcelona in 2018, under the supervision of Prof. Ruth de Diego-Balaguer and Prof. Ferran Pons. As part of the ERC Starting Grant TuningLang, I investigated the development of temporal orienting of attention and its role in language rule learning across infancy, childhood, and adulthood. After my doctoral studies, I joined the Integrative Neuroscience and Cognition Center (INCC) at Université Paris Cité, France, as a postdoctoral fellow within the ERC Consolidator Grant BabyRhythm, working with Prof. Judit Gervain. In 2020, I joined the Department of Developmental Psychology and Socialization at the University of Padova, Italy. During my postdoctoral research, I focused on the neural mechanisms involved in neonatal speech processing and infant language learning.
+
+After a four-year career break from academia (2022–2026), during which I worked as a teacher and was on maternity leave, I recently resumed my academic career by joining the ERC Starting Grant GALA, led by Dr. Chiara Santolin in the Research Institute Sant Joan de Déu in Barcelona, where I investigate speech segmentation in newborns using fNIRS.
+
+<br>
+
 
 ## PhD students
 
@@ -61,43 +74,27 @@ I obtained my MSc in International Experimental and Clinical Linguistics at the 
 
 <br>
 
-## Staff
+## Project Coordinator 
 
-<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:chara.sofocleous@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
+<h3>Alyssa Álvarez&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:alyssa.alvarez@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/alyssa-alvarez-8a0a20271" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a>&nbsp;&nbsp;<a href="https://github.com/Aalva20" target="_blank"><i class="fab fa-github text-dark"></i></a></h3>
 
-![](/static/img/chara.png){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+</h3>
 
-I am a MSc student working as a research assistant for the GALA project, mainly assisting with recruitment of families and data collection with newborns. I am currently enrolled in the MSc in Brain and Cognition at the Universitat Pompeu Fabra and also hold a masters in Clinical and Health Psychology from the Instituto Superior de Estudios Psicológicos.
+![](/static/img/alyssa.png){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
 
-Before my postgraduate studies in Barcelona, I was based in the United Kingdom where I obtained my BSc in Psychology at the University of Bath, and worked as a research assistant in developmental neuroscience at Cardiff University and as an assistant psychologist in the NHS.
+I am the Project Coordinator for the GALA project, where my role primarily involves assisting with the recruitment of participants, both adults and infants, and managing their visits to the lab. In the lab, I use a combination of eye-tracking and head-turn preference paradigms to explore early language acquisition and cognitive development.
 
-As an aim to bridge clinical psychology and neuroscience, one of my research interests lies in how studying early language development can help to integrate knowledge from developmental neuroscience with clinical applications of neuropsychology, and ultimately contribute to a better understanding of language-related developmental disorders or atypical development.
-
-<br>
-
-## Master students
-
-<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="dilanidil.kumet01@estudiant.upf.edu" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
-
-![](/static/img/idil.jpeg){width="300px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
-
-
-I am a MSc student in Brain and Cognition at Universitat Pompeu Fabra, with a strong interest in neurodevelopmental disorders, language processing, and atypical development. My research interests focus on understanding how early brain mechanisms supporting language and multisensory processing may differ in conditions such as autism spectrum disorder and speech or language impairments.
-
-I also completed a clinical practicum at Capa Neurology Hospital, where I was exposed to the assessment and observation of patients with neurological and neurodevelopmental conditions. This experience strengthened my interest in bridging clinical neuropsychology with developmental neuroscience.
-
-I am particularly interested in how early neural and sensory mechanisms support language acquisition, and how studying these processes in infancy can help bridge developmental neuroscience with clinical neuropsychology. I am especially interested in combining EEG with other neuroimaging techniques to investigate how infants and young children perceive, integrate, and learn from linguistic input.
+I obtained my MSc in Brain and Cognition from Pompeu Fabra University (Barcelona, Spain). Prior to that, I earned a Bachelor’s degree in Neuroscience and Behavioral Biology from Emory University (Atlanta, USA).
+Language acquisition has always been a central interest of mine. Through this work, I aim to contribute to uncovering the mechanisms that shape how we learn and process language
 
 <br>
+
 
 ## Former members
 
-<h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:silvia.valls@sjd.es" target="_blank"><i class="fas fa-envelope text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
+<h3>Silvia Valls Santafé&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/silvia-valls-santafe-4a0679308/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
 
-![](/static/img/silvia.jpg){width="200px" style="float: right; margin: 5px 15px 5px 15px; border-radius: 50%;"}
+<h3>Chara Sofocleous&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/charasofocleous" target="_blank"><i class="fab fa-github text-dark"></i></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/chara-sofocleous-b79848162/" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
 
-I am a research assistant involved in the GALA project. I am currently finishing my degree in Biomedical Engineering at Universitat Pompeu Fabra, where I have developed a strong interest in neuroscience and cognitive development. As part of my role, I support the team by preparing the experimental setup, collecting the data and accompanying families and their infants throughout the studies.
+<h3>Dilan Idil Kümet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="www.linkedin.com/in/idil-kümet-6669061b9" target="_blank"><i class="fa-brands fa-linkedin-in text-dark"></i></a></h3>
 
-In parallel, I am working on my final degree project, which focuses on developing a multimodal system to study brain activity in 4 to 5-month-old infants by integrating Electroencephalography (EEG), functional near-infrared spectroscopy (fNIRS) and functional diffusion correlation spectroscopy (fDCS). The goal is to combine the high temporal resolution of EEG with the spatial one provided by the other two optical techniques. As part of this work, I am also developing a custom component to ensure good signal quality, especially in infants with dense or dark hair, improving the overall reliability of the system.
-
-I am very interested in the intersection between technology and neuroscience, and I am committed to continue contributing to research that improves our understanding of how infants perceive and learn from the world around them.

@@ -11,6 +11,19 @@ project:
 
 website:
   navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: pages/people.qmd
+        text: People
+      - href: pages/research.qmd
+        text: Research
+      - href: pages/media.qmd
+        text: Media
+      - href: pages/publications.qmd
+        text: Publications
+      - href: pages/contact.qmd
+        text: Contact
     search: true
   twitter-card: true
   open-graph: true
@@ -20,10 +33,14 @@ website:
   site-url: https://neurodev.github.io
   repo-url: https://github.com/NeuroDevCo/neurodevco.github.io
   page-footer:
-    left: "![](/static/img/erc.png){height='80px' style='vertical-align: middle;'}"
+    left: "![](/static/img/erc.png){height='80px' style='vertical-align: middle;'} 
+    <br> ![](/static/img/LOGO-ERC.png){height='80px' style='vertical-align: middle;'}
+    "
     right:
       - icon: github
         href: https://github.com/NeuroDevCo
+      - text: <p class=small>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Council Executive Agency (ERCEA). Neither the European Union nor the granting authority can be held responsible for them. This work is supported by the ERC StG 101115991 (GALA) awarded to Chiara Santolin</p>
+
     center: |
       {{< fa location-dot >}}  C. de Sta. Rosa, 39 | 08950 Barcelona
 

@@ -1,12 +1,14 @@
 ---
-title: NeuroDevCo
-subtitle: Neurodevelopment and Comparative Cognition group
+title: Neurodevelopment and Comparative Cognition group
+subtitle: NeuroDevCo
 listing:
     type: grid
     contents:
         - people.qmd
+        - research.qmd
+        - media.qmd
+        - publications.qmd
         - contact.qmd
-        - babies.qmd
     sort: false
 contents: false
 sidebar:
@@ -14,7 +16,6 @@ sidebar:
 toc: false
 ---
 
-::: {.content-visible when-profile="en"}
 
 <br>
 
@@ -38,7 +39,3 @@ toc: false
 The Neurodevelopment and Comparative Cognition research group (NeuroDevCo) at the [Institut de Recerca Sant Joan de Déu](https://www.irsjd.org) (Barcelona, Spain), led by Dr. Chiara Santolin, focuses on understanding the mechanisms underlying cognitive and neural processes in human newborns and infants, and in other species. By combining developmental and cross-species approaches, the group investigates early-life experiences shape brain development and cognitive functions. The ongoing research is mainly focused on uncovering the (evolutionary) origins of the mechanisms supporting early language learning, integrating research techniques from Psychology, Cognitive Neuroscience and Biology.
 
 ::::
-
-<br>
-
-:::
